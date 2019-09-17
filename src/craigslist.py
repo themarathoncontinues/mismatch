@@ -1,4 +1,5 @@
 import argparse
+import json
 import logging
 import requests
 
@@ -6,14 +7,14 @@ logging.basicConfig(level='INFO')
 logger = logging.getLogger(__name__)
 
 from bs4 import BeautifulSoup
-from constants import (
+from src.constants import (
     CL_BASE,
     CL_CITIES,
     CL_BASE_SEARCH,
     CL_BASE_TAIL
 )
 
-from utils.url_util import cl_product
+from src.utils.url_util import cl_product
 
 
 def construct_url(metro, product):
@@ -43,6 +44,27 @@ def get_soup(request_url):
     return soup
 
 
+def parse_soup(soup_html):
+    """
+    Create data structure of craiglist.org data from product request
+    :param cl_soup:
+    :return:
+    """
+    product_meta = []
+    products = soup_html.find_all('li', 'result-row')
+
+    current = {}
+    for product in products:
+        current['listingUrl'] = product.find('a', href=True)['href']
+        current['createdAt'] = product.find('time', 'result-date')['datetime']
+        current['salePrice'] = int((product.find('span', 'result-price').text).replace('$', ''))
+
+        print(json.dumps(current, indent=4))
+        product_meta.append(current)
+
+    return product_meta
+
+
 def run(args_dict):
     """
     Pseudo handler for craigslist scraping from given args
@@ -57,6 +79,9 @@ def run(args_dict):
     logger.info(f'Url constructed: {fout}')
 
     cl_soup = get_soup(fout)
+    product_data = parse_soup(cl_soup)
+
+    logger.info(f'{len(product_data)} listings for {product.upper()} found.')
 
 
 if __name__ == '__main__':
