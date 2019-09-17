@@ -7,14 +7,14 @@ logging.basicConfig(level='INFO')
 logger = logging.getLogger(__name__)
 
 from bs4 import BeautifulSoup
-from constants import (
+from src.constants import (
     CL_BASE,
     CL_CITIES,
     CL_BASE_SEARCH,
     CL_BASE_TAIL
 )
 
-from utils.url_util import cl_product
+from src.utils.url_util import cl_product
 
 
 def construct_url(metro, product):
@@ -59,7 +59,7 @@ def parse_soup(soup_html):
         current['createdAt'] = product.find('time', 'result-date')['datetime']
         current['salePrice'] = int((product.find('span', 'result-price').text).replace('$', ''))
 
-        # print(json.dumps(current, indent=4))
+        print(json.dumps(current, indent=4))
         product_meta.append(current)
 
     return product_meta
@@ -80,7 +80,7 @@ def run(args_dict):
 
     cl_soup = get_soup(fout)
     product_data = parse_soup(cl_soup)
-    print(product_data)
+
     logger.info(f'{len(product_data)} listings for {product.upper()} found.')
 
 
