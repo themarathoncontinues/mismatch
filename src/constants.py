@@ -17,7 +17,6 @@ CL_CITIES = [
     'dallas',
     'denver',
     'detroit',
-    'global',
     'houston',
     'lasvegas',
     'losangeles',
