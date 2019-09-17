@@ -1,0 +1,1 @@
+"""Bring together multiple platform's pricing averages per product"""
