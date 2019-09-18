@@ -1,6 +1,7 @@
 # environment
 env/
 .env
+venv/
 
 # ide
 .idea
@@ -8,3 +9,6 @@ __pycache__/
 
 # pytest
 .coverage
+
+# tox
+.tox
