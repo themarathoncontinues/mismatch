@@ -1,4 +1,4 @@
-from src.craigslist.utils.url_util import cl_product
+from src.utils.url_util import cl_product
 
 def test_cl_product():
     in_arg = "MY UNIT TEST"
