@@ -1,6 +1,6 @@
 import mock
 
-from src.craigslist import (
+from src.craigslist.craigslist import (
     construct_url,
     get_soup,
     parse_soup
