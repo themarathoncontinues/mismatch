@@ -1,5 +1,7 @@
 # mismatch
 
+[![Build Status](https://travis-ci.com/leonkozlowski/mismatch.svg?branch=master)](https://travis-ci.com/leonkozlowski/mismatch)
+
 Identifying retail arbitrage opportunities.
 
 
