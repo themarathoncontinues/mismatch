@@ -3,6 +3,6 @@
 echo "Running tests for mismatch..."
 export PYTHONPATH=$PWD
 
-pytest --cov=src/ -vv tests/
+pytest --cov-report term-missing --cov=src/ --cov-report html:cov_html -vv tests/
 
 echo "Finished running tests."

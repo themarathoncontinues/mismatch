@@ -1,4 +1,8 @@
+import codecs
 import mock
+import unittest
+
+from bs4 import BeautifulSoup
 
 from src.craigslist.craigslist import (
     construct_url,
@@ -15,3 +19,20 @@ def test_construct_url():
     result = construct_url(metro=METRO, product=PRODUCT)
 
     assert result == expected_result
+
+
+def test_get_soup():
+    IN_URL = 'https://newyork.craigslist.org/search/sss?query=macbook+pro+touchbar&sort=rel'
+
+    result = get_soup(IN_URL)
+
+    assert type(result) == BeautifulSoup
+
+
+def test_parse_soup():
+    IN_HTML = codecs.open('tests/testData/test_soup.txt', 'r')
+    mock_soup = BeautifulSoup(IN_HTML.read(), features='html.parser')
+
+    result = parse_soup(mock_soup)
+
+    assert len(result) == 71

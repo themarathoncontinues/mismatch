@@ -1,6 +1,7 @@
 # mismatch
 
 [![Build Status](https://travis-ci.com/leonkozlowski/mismatch.svg?branch=master)](https://travis-ci.com/leonkozlowski/mismatch)
+[![codecov](https://codecov.io/gh/leonkozlowski/mismatch/branch/master/graph/badge.svg)](https://codecov.io/gh/leonkozlowski/mismatch)
 
 Identifying retail arbitrage opportunities.
 

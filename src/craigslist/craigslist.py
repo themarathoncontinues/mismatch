@@ -84,7 +84,7 @@ def run(args_dict):
     logger.info(f'{len(product_data)} listings for {product.upper()} found.')
 
 
-if __name__ == '__main__':
+if __name__ == '__main__': # pragma: no cover
     parser = argparse.ArgumentParser(
         description='Find prices for product based on metropolitan area'
     )

@@ -1,0 +1,3333 @@
+<!DOCTYPE html>
+
+<html class="no-js"><head>
+<title>new york for sale "macbook air" - craigslist</title>
+<meta content='new york for sale "macbook air" - craigslist' name="description"/>
+<meta content="IE=Edge" http-equiv="X-UA-Compatible">
+<link href="https://newyork.craigslist.org/search/sss" rel="canonical"/>
+<link href="https://newyork.craigslist.org/search/sss?format=rss&amp;query=macbook%20air&amp;sort=rel" rel="alternate" title='RSS feed for craigslist | new york for sale "macbook air" - craigslist' type="application/rss+xml"/>
+<link href="https://newyork.craigslist.org/search/sss?s=120&amp;query=macbook%20air&amp;sort=rel" rel="next"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<link href="//www.craigslist.org/styles/cl.css?v=1c8b9f6ba76c1ce6e888ec5c48118861" media="all" rel="stylesheet" type="text/css"/>
+<link href="//www.craigslist.org/styles/search.css?v=bc035cbbc3978b0ec9df93944cdf349b" media="all" rel="stylesheet" type="text/css"/>
+<link href="//www.craigslist.org/styles/jquery-ui-clcustom.css?v=3b05ddffb7c7f5b62066deff2dda9339" media="all" rel="stylesheet" type="text/css"/>
+<link href="//www.craigslist.org/styles/leaflet.css?v=33e3dd14c7deed955c83b6927c5e1f07" media="all" rel="stylesheet" type="text/css"/>
+<link href="//www.craigslist.org/styles/MarkerCluster.css?v=9bea97021e746649c6837e95dd9723e8" media="all" rel="stylesheet" type="text/css"/>
+<link href="//www.craigslist.org/styles/tocsmaps.css?v=d8743547c59d5ad31d4d7294c7e2f7f2" media="all" rel="stylesheet" type="text/css"/>
+<!--[if IE]>
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/tocsmaps-ie.css?v=b21742b2ebe243963373e956ea115db0">
+<![endif]-->
+<script type="text/javascript"><!--
+var areaCountry = "US";
+var areaID = "3";
+var areaRegion = "NY";
+var catAbb = "sss";
+var countOfTotalText = "image {count} of {total}";
+var currencySymbol = "&#x0024;";
+var defaultView = "grid";
+var expiredFavIDs = null;
+var imageConfig = {"1":{"hostname":"https://images.craigslist.org","sizes":["50x50c","300x300","600x450","1200x900"]},"0":{"hostname":"https://images.craigslist.org","sizes":["50x50c","300x300","600x450"]},"2":{"hostname":"https://images.craigslist.org","sizes":["50x50c","300x300","600x450","1200x900"]}};
+var lessInfoText = "less info";
+var maptileBaseUrl = "//map{s}.craigslist.org/t09/{z}/{x}/{y}.png";
+var maxResults = 3000;
+var noImageText = "no image";
+var pID = null;
+var postalLat = null;
+var postalLon = null;
+var purveyorCategories = {"owner":"sso","dealer":"ssq","all":"sss"};
+var searchDistance = null;
+var sectionAbb = "sss";
+var sectionBase = "sss";
+var showInfoText = "show info";
+var showMapTabs = 1;
+var showingBanished = 0;
+var showingFavorites = 0;
+var starHint = "save this post in your favorites list";
+var subarea = null;
+var zoomToPosting = null;
+--></script>
+<!--[if lt IE 9]>
+<script src="//www.craigslist.org/js/html5shiv.min.js?v=8d72a75f577725cf972669373c3b7985" type="text/javascript" ></script>
+
+<script src="//www.craigslist.org/js/respond-fork.min.js?v=5cb242c5ec0cefe9f21bf47b1ae5289b" type="text/javascript" ></script>
+
+<![endif]-->
+<!--[if lte IE 7]>
+<script src="//www.craigslist.org/js/json2.min.js?v=6516f4a633a32368f6a3be69a748d23e" type="text/javascript" ></script>
+
+<![endif]-->
+</meta></head>
+<body class="search has-map">
+<script type="text/javascript"><!--
+    function C(k){return(document.cookie.match('(^|; )'+k+'=([^;]*)')||0)[2]}
+    var pagetype, pagemode;
+    (function(){
+        var h = document.documentElement;
+        h.className = h.className.replace('no-js', 'js');
+        var b = document.body;
+        var bodyClassList = b.className.split(/\s+/);;
+        pagetype = bodyClassList[0]; // dangerous assumption
+        var fmt = C('cl_fmt');
+        if ( fmt === 'regular' || fmt === 'mobile' ) {
+            pagemode = fmt;
+        } else if (screen.width <= 480) {
+            pagemode = 'mobile';
+        } else {
+            pagemode = 'regular';
+        }
+        pagemode = pagemode === 'mobile' ? 'mobile' : 'desktop';
+        bodyClassList.push(pagemode);
+        if (C('hidesearch') === '1' && pagemode !== 'mobile') {
+            bodyClassList.push('hide-search');
+        }
+        var width = window.innerWidth || document.documentElement.clientWidth;
+        if (width > 1000) { bodyClassList.push('w1024'); }
+        if (typeof window.sectionBase !== 'undefined') {
+            var mode = (decodeURIComponent(C('cl_tocmode') || '').match(new RegExp(window.sectionBase + ':([^,]+)', 'i')) || {})[1] || window.defaultView;
+            if (mode) {
+                bodyClassList.push(mode);
+            }
+        }
+        b.className = bodyClassList.join(' ');
+    }());
+--></script>
+<section class="page-container" id="page-top">
+<div class="bglogo"></div>
+<header class="global-header wide">
+<a class="header-logo" href="/" name="logoLink">CL</a>
+<nav class="breadcrumbs-container">
+<form action="/search/sss" class="breadcrumbs-form" data-action="/search/###/sss" id="breadcrumbform" method="get">
+<input name="sort" type="hidden" value="rel"/>
+<input name="query" type="hidden" value="macbook air"/>
+<ul class="breadcrumbs">
+<li class="crumb area">
+<span class="no-js">
+<a href="/">new york</a>
+</span>
+<select class="js-only" id="areaAbb" name="areaAbb">
+<option value="newyork">new york</option>
+<option value="albany">albany, NY</option>
+<option value="allentown">allentown</option>
+<option value="altoona">altoona</option>
+<option value="annapolis">annapolis</option>
+<option value="baltimore">baltimore</option>
+<option value="binghamton">binghamton</option>
+<option value="boston">boston</option>
+<option value="capecod">cape cod</option>
+<option value="catskills">catskills</option>
+<option value="cnj">central NJ</option>
+<option value="chambersburg">cumberland val</option>
+<option value="delaware">delaware</option>
+<option value="newlondon">eastern CT</option>
+<option value="easternshore">eastern shore</option>
+<option value="martinsburg">eastern WV</option>
+<option value="elmira">elmira</option>
+<option value="fingerlakes">finger lakes</option>
+<option value="frederick">frederick</option>
+<option value="glensfalls">glens falls</option>
+<option value="harrisburg">harrisburg</option>
+<option value="hartford">hartford</option>
+<option value="hudsonvalley">hudson valley</option>
+<option value="ithaca">ithaca</option>
+<option value="jerseyshore">jersey shore</option>
+<option value="lancaster">lancaster, PA</option>
+<option value="longisland">long island</option>
+<option value="newhaven">new haven</option>
+<option value="newjersey">north jersey</option>
+<option value="nwct">northwest CT</option>
+<option value="oneonta">oneonta</option>
+<option value="philadelphia">philadelphia</option>
+<option value="poconos">poconos</option>
+<option value="reading">reading</option>
+<option value="providence">rhode island</option>
+<option value="scranton">scranton</option>
+<option value="southcoast">south coast</option>
+<option value="southjersey">south jersey</option>
+<option value="smd">southern MD</option>
+<option value="pennstate">state college</option>
+<option value="syracuse">syracuse</option>
+<option value="utica">utica</option>
+<option value="washingtondc">washington, DC</option>
+<option value="westernmass">western mass</option>
+<option value="williamsport">williamsport</option>
+<option value="worcester">worcester</option>
+<option value="york">york, PA</option>
+</select>
+<span class="breadcrumb-arrow">&gt;</span>
+</li>
+<li class="crumb subarea">
+<select id="subArea" name="subArea">
+<option selected="" value="">all new york</option>
+<option value="brx">bronx</option>
+<option value="brk">brooklyn</option>
+<option value="fct">fairfield</option>
+<option value="lgi">long island</option>
+<option value="mnh">manhattan</option>
+<option value="jsy">new jersey</option>
+<option value="que">queens</option>
+<option value="stn">staten island</option>
+<option value="wch">westchester</option>
+</select>
+<span class="breadcrumb-arrow">&gt;</span>
+</li>
+<li class="crumb section">
+<select id="catAbb" name="catAbb">
+<option value="ccc">community</option>
+<option value="eee">events</option>
+<option selected="" value="sss">for sale</option>
+<option value="ggg">gigs</option>
+<option value="hhh">housing</option>
+<option value="jjj">jobs</option>
+<option value="rrr">resumes</option>
+<option value="bbb">services</option>
+</select>
+<span class="breadcrumb-arrow">&gt;</span>
+</li>
+<li class="crumb category">
+<select class="js-only" id="subcatAbb">
+<option value="sss">all</option>
+<option value="ata">antiques</option>
+<option value="ppa">appliances</option>
+<option value="ara">arts+crafts</option>
+<option value="sna">atvs/utvs/snow</option>
+<option value="pta">auto parts</option>
+<option value="wta">auto wheels &amp; tires</option>
+<option value="ava">aviation</option>
+<option value="baa">baby+kids</option>
+<option value="bar">barter</option>
+<option value="haa">beauty+hlth</option>
+<option value="bip">bike parts</option>
+<option value="bia">bikes</option>
+<option value="bpa">boat parts</option>
+<option value="boo">boats</option>
+<option value="bka">books</option>
+<option value="bfa">business</option>
+<option value="cta">cars+trucks</option>
+<option value="ema">cds/dvd/vhs</option>
+<option value="moa">cell phones</option>
+<option value="cla">clothes+acc</option>
+<option value="cba">collectibles</option>
+<option value="syp">computer parts</option>
+<option value="sya">computers</option>
+<option value="ela">electronics</option>
+<option value="gra">farm+garden</option>
+<option value="zip">free stuff</option>
+<option value="fua">furniture</option>
+<option value="gms">garage sales</option>
+<option value="foa">general</option>
+<option value="hva">heavy equipment</option>
+<option value="hsa">household</option>
+<option value="jwa">jewelry</option>
+<option value="maa">materials</option>
+<option value="mpa">motorcycle parts</option>
+<option value="mca">motorcycles</option>
+<option value="msa">music instr</option>
+<option value="pha">photo+video</option>
+<option value="rva">RVs</option>
+<option value="sga">sporting</option>
+<option value="tia">tickets</option>
+<option value="tla">tools</option>
+<option value="taa">toys+games</option>
+<option value="tra">trailers</option>
+<option value="vga">video gaming</option>
+<option value="waa">wanted</option>
+</select><span class="no-js">for sale</span>
+<span class="breadcrumb-arrow">&gt;</span>
+</li>
+<li class="crumb no-js">
+<input type="submit" value="go"/>
+</li>
+</ul>
+</form>
+</nav>
+<div class="userlinks">
+<ul class="user-actions">
+<li class="user post">
+<a href="https://post.craigslist.org/c/nyc">post</a>
+</li>
+<li class="user account">
+<a href="https://accounts.craigslist.org/login/home">account</a>
+</li>
+</ul>
+<ul class="user-favs-discards">
+<li class="user">
+<div class="favorites">
+<a class="favlink" href="#"><span aria-hidden="true" class="icon icon-star fav"></span><span class="fav-number">0</span><span class="fav-label"> favorites</span></a>
+</div>
+</li>
+<li class="user discards">
+<form action="/favorites" class="unfavform js-only" method="POST">
+<div class="to-banish-page">
+<input class="lastLink" name="lastLink" type="hidden" value="//newyork.craigslist.org/search/sss?query=macbook%20air&amp;sort=rel"/>
+<input class="lastTitle" name="lastTitle" type="hidden" value='new york for sale "macbook air" - craigslist'/>
+<input class="unfaves" name="fl" type="hidden"/>
+<input name="uf" type="hidden" value="1"/>
+<a class="to-banish-page-link" href="#">
+<span aria-hidden="true" class="icon icon-trash red"></span>
+<span class="banished_count">0</span>
+<span class="discards-label"> hidden</span>
+</a>
+</div>
+</form>
+</li>
+</ul>
+</div>
+</header>
+<header class="global-header narrow">
+<a class="header-logo" href="/">CL</a>
+<nav class="breadcrumbs-container">
+<ul class="breadcrumbs">
+
+
+new york            &gt;
+
+for sale
+
+</ul>
+</nav>
+<span class="linklike show-wide-header">...</span>
+</header>
+<form action="/search/sss" class="search-form" id="searchform">
+<div class="querybox">
+<div class="form-tab js-only"><span class="search-open" title="hide search">«</span><span class="search-closed" title="show search">»</span></div>
+<input autocapitalize="off" autocomplete="off" autocorrect="off" class="flatinput ui-autocomplete-input" data-autocomplete="search" id="query" name="query" placeholder="search for sale" type="text" value="macbook air"/>
+<button class="searchbtn" type="submit">
+<span aria-hidden="true" class="icon icon-search"></span>
+<span class="screen-reader-text">press to search craigslist</span>
+</button>
+<div class="savealert">
+<a class="saveme" data-action="save" href="https://accounts.craigslist.org/login?rt=L&amp;rp=%2Fsavesearch%2Fsave%3FURL%3Dhttps%253A%252F%252Fnewyork%252Ecraigslist%252Eorg%252Fsearch%252Fsss%253Fquery%253Dmacbook%252520air%2526sort%253Drel" title="save this search">save search</a>
+</div>
+</div>
+<div class="search-options-container">
+<h2 class="search-options-header linklike">
+<div aria-hidden="true" class="icon icon-toggle-gear"></div>
+        options<span class="options-close">close</span>
+</h2>
+<input id="excats" name="excats" type="hidden"/>
+<input name="sort" type="hidden" value="rel"/>
+<div class="search-options">
+<div class="searchgroup categories">
+<div class="cattitle">
+<a class="reset" href="/search/sss" title="clear all search parameters">for sale</a>
+</div>
+<ul class="maincats">
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="waa" id="cat_waa" name="cat_id" type="checkbox" value="20,190"/>
+<a class="category" href="/search/waa?query=macbook%20air&amp;sort=rel">wanted</a> <span class="count">323</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="sya" id="cat_sya" name="cat_id" type="checkbox" value="7,166"/>
+<a class="category" href="/search/sya?query=macbook%20air&amp;sort=rel">computers</a> <span class="count">154</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="moa" id="cat_moa" name="cat_id" type="checkbox" value="153,165"/>
+<a class="category" href="/search/moa?query=macbook%20air&amp;sort=rel">cell phones</a> <span class="count">94</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="ela" id="cat_ela" name="cat_id" type="checkbox" value="96,167"/>
+<a class="category" href="/search/ela?query=macbook%20air&amp;sort=rel">electronics</a> <span class="count">43</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="syp" id="cat_syp" name="cat_id" type="checkbox" value="199,200"/>
+<a class="category" href="/search/syp?query=macbook%20air&amp;sort=rel">computer parts</a> <span class="count">38</span>
+</li>
+<li class="morecats js-only closed">
+<span class="linklike closed"><span class="plusminus">+</span>show 40 more</span>
+<span class="linklike open"><span class="plusminus">–</span>hide 40 more</span>
+<span class="count">17</span>
+</li>
+</ul>
+<ul class="othercats closed">
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="jwa" id="cat_jwa" name="cat_id" type="checkbox" value="120,182"/>
+<a class="category" href="/search/jwa?query=macbook%20air&amp;sort=rel">jewelry</a> <span class="count">7</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="ata" id="cat_ata" name="cat_id" type="checkbox" value="150,169"/>
+<a class="category" href="/search/ata?query=macbook%20air&amp;sort=rel">antiques</a> <span class="count">3</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="sga" id="cat_sga" name="cat_id" type="checkbox" value="93,186"/>
+<a class="category" href="/search/sga?query=macbook%20air&amp;sort=rel">sporting goods</a> <span class="count">2</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="bfa" id="cat_bfa" name="cat_id" type="checkbox" value="134,174"/>
+<a class="category" href="/search/bfa?query=macbook%20air&amp;sort=rel">business</a> <span class="count">1</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="fua" id="cat_fua" name="cat_id" type="checkbox" value="141,142"/>
+<a class="category" href="/search/fua?query=macbook%20air&amp;sort=rel">furniture</a> <span class="count">1</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="foa" id="cat_foa" name="cat_id" type="checkbox" value="5,179"/>
+<a class="category" href="/search/foa?query=macbook%20air&amp;sort=rel">general for sale</a> <span class="count">1</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="hsa" id="cat_hsa" name="cat_id" type="checkbox" value="97,181"/>
+<a class="category" href="/search/hsa?query=macbook%20air&amp;sort=rel">household items</a> <span class="count">1</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="pha" id="cat_pha" name="cat_id" type="checkbox" value="137,185"/>
+<a class="category" href="/search/pha?query=macbook%20air&amp;sort=rel">photo/video</a> <span class="count">1</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="ppa" id="cat_ppa" name="cat_id" type="checkbox" value="149,162"/>
+<a class="category" href="/search/ppa?query=macbook%20air&amp;sort=rel">appliances</a> <span class="count">0</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="ara" id="cat_ara" name="cat_id" type="checkbox" value="135,170"/>
+<a class="category" href="/search/ara?query=macbook%20air&amp;sort=rel">arts &amp; crafts</a> <span class="count">0</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="sna" id="cat_sna" name="cat_id" type="checkbox" value="191,192"/>
+<a class="category" href="/search/sna?query=macbook%20air&amp;sort=rel">atvs, utvs, snowmobiles</a> <span class="count">0</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="pta" id="cat_pta" name="cat_id" type="checkbox" value="122,163"/>
+<a class="category" href="/search/pta?query=macbook%20air&amp;sort=rel">auto parts</a> <span class="count">0</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="wta" id="cat_wta" name="cat_id" type="checkbox" value="203,204"/>
+<a class="category" href="/search/wta?query=macbook%20air&amp;sort=rel">auto wheels &amp; tires</a> <span class="count">0</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="ava" id="cat_ava" name="cat_id" type="checkbox" value="208,209"/>
+<a class="category" href="/search/ava?query=macbook%20air&amp;sort=rel">aviation</a> <span class="count">0</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="baa" id="cat_baa" name="cat_id" type="checkbox" value="107,171"/>
+<a class="category" href="/search/baa?query=macbook%20air&amp;sort=rel">baby &amp; kid stuff</a> <span class="count">0</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="bar" id="cat_bar" name="cat_id" type="checkbox" value="42"/>
+<a class="category" href="/search/bar?query=macbook%20air&amp;sort=rel">barter</a> <span class="count">0</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="bip" id="cat_bip" name="cat_id" type="checkbox" value="197,198"/>
+<a class="category" href="/search/bip?query=macbook%20air&amp;sort=rel">bicycle parts</a> <span class="count">0</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="bia" id="cat_bia" name="cat_id" type="checkbox" value="68,172"/>
+<a class="category" href="/search/bia?query=macbook%20air&amp;sort=rel">bicycles</a> <span class="count">0</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="bpa" id="cat_bpa" name="cat_id" type="checkbox" value="201,202"/>
+<a class="category" href="/search/bpa?query=macbook%20air&amp;sort=rel">boat parts &amp; accessories</a> <span class="count">0</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="boo" id="cat_boo" name="cat_id" type="checkbox" value="119,164"/>
+<a class="category" href="/search/boo?query=macbook%20air&amp;sort=rel">boats</a> <span class="count">0</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="bka" id="cat_bka" name="cat_id" type="checkbox" value="92,173"/>
+<a class="category" href="/search/bka?query=macbook%20air&amp;sort=rel">books &amp; magazines</a> <span class="count">0</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="cta" id="cat_cta" name="cat_id" type="checkbox" value="145,146"/>
+<a class="category" href="/search/cta?query=macbook%20air&amp;sort=rel">cars &amp; trucks</a> <span class="count">0</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="ema" id="cat_ema" name="cat_id" type="checkbox" value="117,175"/>
+<a class="category" href="/search/ema?query=macbook%20air&amp;sort=rel">cds / dvds / vhs</a> <span class="count">0</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="cla" id="cat_cla" name="cat_id" type="checkbox" value="94,176"/>
+<a class="category" href="/search/cla?query=macbook%20air&amp;sort=rel">clothing &amp; accessories</a> <span class="count">0</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="cba" id="cat_cba" name="cat_id" type="checkbox" value="95,177"/>
+<a class="category" href="/search/cba?query=macbook%20air&amp;sort=rel">collectibles</a> <span class="count">0</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="gra" id="cat_gra" name="cat_id" type="checkbox" value="133,178"/>
+<a class="category" href="/search/gra?query=macbook%20air&amp;sort=rel">farm &amp; garden</a> <span class="count">0</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="zip" id="cat_zip" name="cat_id" type="checkbox" value="101"/>
+<a class="category" href="/search/zip?query=macbook%20air&amp;sort=rel">free stuff</a> <span class="count">0</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="gms" id="cat_gms" name="cat_id" type="checkbox" value="73"/>
+<a class="category" href="/search/gms?query=macbook%20air&amp;sort=rel">garage &amp; moving sales</a> <span class="count">0</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="haa" id="cat_haa" name="cat_id" type="checkbox" value="152,180"/>
+<a class="category" href="/search/haa?query=macbook%20air&amp;sort=rel">health and beauty</a> <span class="count">0</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="hva" id="cat_hva" name="cat_id" type="checkbox" value="193,194"/>
+<a class="category" href="/search/hva?query=macbook%20air&amp;sort=rel">heavy equipment</a> <span class="count">0</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="maa" id="cat_maa" name="cat_id" type="checkbox" value="136,183"/>
+<a class="category" href="/search/maa?query=macbook%20air&amp;sort=rel">materials</a> <span class="count">0</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="mpa" id="cat_mpa" name="cat_id" type="checkbox" value="195,196"/>
+<a class="category" href="/search/mpa?query=macbook%20air&amp;sort=rel">motorcycle parts &amp; accessories</a> <span class="count">0</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="mca" id="cat_mca" name="cat_id" type="checkbox" value="69,160"/>
+<a class="category" href="/search/mca?query=macbook%20air&amp;sort=rel">motorcycles/scooters</a> <span class="count">0</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="msa" id="cat_msa" name="cat_id" type="checkbox" value="98,184"/>
+<a class="category" href="/search/msa?query=macbook%20air&amp;sort=rel">musical instruments</a> <span class="count">0</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="rva" id="cat_rva" name="cat_id" type="checkbox" value="124,168"/>
+<a class="category" href="/search/rva?query=macbook%20air&amp;sort=rel">recreational vehicles</a> <span class="count">0</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="tia" id="cat_tia" name="cat_id" type="checkbox" value="44,161"/>
+<a class="category" href="/search/tia?query=macbook%20air&amp;sort=rel">tickets</a> <span class="count">0</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="tla" id="cat_tla" name="cat_id" type="checkbox" value="118,187"/>
+<a class="category" href="/search/tla?query=macbook%20air&amp;sort=rel">tools</a> <span class="count">0</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="taa" id="cat_taa" name="cat_id" type="checkbox" value="132,188"/>
+<a class="category" href="/search/taa?query=macbook%20air&amp;sort=rel">toys &amp; games</a> <span class="count">0</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="tra" id="cat_tra" name="cat_id" type="checkbox" value="205,206"/>
+<a class="category" href="/search/tra?query=macbook%20air&amp;sort=rel">trailers</a> <span class="count">0</span>
+</li>
+<li>
+<input checked="checked" class="catcheck multi_checkbox" data-abb="vga" id="cat_vga" name="cat_id" type="checkbox" value="151,189"/>
+<a class="category" href="/search/vga?query=macbook%20air&amp;sort=rel">video gaming</a> <span class="count">0</span>
+</li>
+</ul>
+<div class="selectall js-only checked"><label>
+<input checked="checked" class="catcheck selectallcb" type="checkbox"/>
+<span class="all linklike">select all</span>
+</label></div>
+</div>
+<input name="userid" type="hidden" value="">
+<ul class="searchgroup buttongroup purveyor">
+<li class="button sel">
+<a data-val="all" href="/search/sss?query=macbook%20air&amp;sort=rel">all</a>
+</li><li class="button">
+<a data-val="owner" href="/search/sso?query=macbook%20air&amp;sort=rel"> owner</a>
+</li><li class="button">
+<a data-val="dealer" href="/search/ssq?query=macbook%20air&amp;sort=rel">dealer</a>
+</li>
+</ul>
+<div class="searchgroup">
+<ul>
+<li>
+<label class="srchType">
+<input class="" name="srchType" type="checkbox" value="T"/>
+           search titles only
+       </label>
+</li>
+<li>
+<label class="hasPic">
+<input class="autosubmit" name="hasPic" type="checkbox" value="1"/>
+           has image
+       </label>
+</li>
+<li>
+<label class="postedToday">
+<input class="autosubmit" name="postedToday" type="checkbox" value="1"/>
+           posted today
+       </label>
+</li>
+<li>
+<label class="bundleDuplicates">
+<input class="autosubmit" name="bundleDuplicates" type="checkbox" value="1"/>
+           bundle duplicates
+       </label>
+</li>
+<li>
+<label class="searchNearby">
+<input class="autosubmit" name="searchNearby" type="checkbox" value="1"/>
+           include nearby areas
+       </label>
+</li>
+</ul>
+<ul class="js-only nearbyAreas">
+<li class="nearbyZone nearbyZone_3">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_20" name="nearbyArea" type="checkbox" value="59">
+                            albany, NY <small>(alb)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_7">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_45" name="nearbyArea" type="checkbox" value="355">
+                            altoona-johnstown <small>(aoo)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_5">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_33" name="nearbyArea" type="checkbox" value="460">
+                            annapolis, MD <small>(anp)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_4">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_28" name="nearbyArea" type="checkbox" value="34">
+                            baltimore, MD <small>(bal)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_3">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_21" name="nearbyArea" type="checkbox" value="248">
+                            binghamton, NY <small>(bgm)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_5">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_35" name="nearbyArea" type="checkbox" value="4">
+                            boston <small>(bos)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_9">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_57" name="nearbyArea" type="checkbox" value="40">
+                            buffalo, NY <small>(buf)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_7">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_42" name="nearbyArea" type="checkbox" value="239">
+                            cape cod / islands <small>(cap)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_1">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_9" name="nearbyArea" type="checkbox" value="451">
+                            catskills <small>(cat)</small>
+</input></label>
+</li>
+<li class="">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_2" name="nearbyArea" type="checkbox" value="349">
+                            central NJ <small>(cnj)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_10">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_60" name="nearbyArea" type="checkbox" value="290">
+                            charlottesville, VA <small>(uva)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_9">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_59" name="nearbyArea" type="checkbox" value="452">
+                            chautauqua, NY <small>(chq)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_6">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_38" name="nearbyArea" type="checkbox" value="705">
+                            cumberland valley <small>(cbg)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_3">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_19" name="nearbyArea" type="checkbox" value="193">
+                            delaware <small>(dlw)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_2">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_15" name="nearbyArea" type="checkbox" value="281">
+                            eastern CT <small>(nlo)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_7">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_44" name="nearbyArea" type="checkbox" value="444">
+                            eastern panhandle <small>(ewv)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_4">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_29" name="nearbyArea" type="checkbox" value="328">
+                            eastern shore <small>(esh)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_5">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_30" name="nearbyArea" type="checkbox" value="453">
+                            elmira-corning <small>(elm)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_6">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_36" name="nearbyArea" type="checkbox" value="685">
+                            finger lakes, NY <small>(fgl)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_6">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_39" name="nearbyArea" type="checkbox" value="633">
+                            frederick, MD <small>(fdk)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_8">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_49" name="nearbyArea" type="checkbox" value="457">
+                            fredericksburg, VA <small>(ezf)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_5">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_34" name="nearbyArea" type="checkbox" value="686">
+                            glens falls, NY <small>(gfl)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_3">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_23" name="nearbyArea" type="checkbox" value="166">
+                            harrisburg, PA <small>(hrs)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_10">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_61" name="nearbyArea" type="checkbox" value="447">
+                            harrisonburg, VA <small>(shd)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_2">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_12" name="nearbyArea" type="checkbox" value="44">
+                            hartford, CT <small>(htf)</small>
+</input></label>
+</li>
+<li class="">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_4" name="nearbyArea" type="checkbox" value="249">
+                            hudson valley, NY <small>(hud)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_5">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_31" name="nearbyArea" type="checkbox" value="201">
+                            ithaca, NY <small>(ith)</small>
+</input></label>
+</li>
+<li class="">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_1" name="nearbyArea" type="checkbox" value="561">
+                            jersey shore <small>(jys)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_2">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_17" name="nearbyArea" type="checkbox" value="279">
+                            lancaster, PA <small>(lns)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_1">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_7" name="nearbyArea" type="checkbox" value="167">
+                            lehigh valley <small>(alt)</small>
+</input></label>
+</li>
+<li class="">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_3" name="nearbyArea" type="checkbox" value="250">
+                            long island, NY <small>(isp)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_7">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_46" name="nearbyArea" type="checkbox" value="198">
+                            new hampshire <small>(nhm)</small>
+</input></label>
+</li>
+<li class="">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_5" name="nearbyArea" type="checkbox" value="168">
+                            new haven, CT <small>(hvn)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_9">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_58" name="nearbyArea" type="checkbox" value="48">
+                            norfolk / hampton roads <small>(nfk)</small>
+</input></label>
+</li>
+<li class="">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_0" name="nearbyArea" type="checkbox" value="170">
+                            north jersey <small>(njy)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_1">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_10" name="nearbyArea" type="checkbox" value="354">
+                            northwest CT <small>(nct)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_3">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_18" name="nearbyArea" type="checkbox" value="684">
+                            oneonta, NY <small>(onh)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_1">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_8" name="nearbyArea" type="checkbox" value="17">
+                            philadelphia <small>(phi)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_9">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_54" name="nearbyArea" type="checkbox" value="338">
+                            plattsburgh-adirondacks <small>(plb)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_1">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_6" name="nearbyArea" type="checkbox" value="356">
+                            poconos <small>(poc)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_9">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_55" name="nearbyArea" type="checkbox" value="683">
+                            potsdam-canton-massena <small>(ptd)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_2">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_14" name="nearbyArea" type="checkbox" value="278">
+                            reading, PA <small>(rea)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_4">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_24" name="nearbyArea" type="checkbox" value="38">
+                            rhode island <small>(prv)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_9">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_56" name="nearbyArea" type="checkbox" value="60">
+                            richmond, VA <small>(ric)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_8">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_50" name="nearbyArea" type="checkbox" value="126">
+                            rochester, NY <small>(rcs)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_1">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_11" name="nearbyArea" type="checkbox" value="276">
+                            scranton / wilkes-barre <small>(avp)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_4">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_27" name="nearbyArea" type="checkbox" value="378">
+                            south coast, MA <small>(sma)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_2">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_13" name="nearbyArea" type="checkbox" value="286">
+                            south jersey <small>(snj)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_7">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_43" name="nearbyArea" type="checkbox" value="556">
+                            southern maryland <small>(smd)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_6">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_40" name="nearbyArea" type="checkbox" value="277">
+                            state college, PA <small>(psu)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_6">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_37" name="nearbyArea" type="checkbox" value="130">
+                            syracuse, NY <small>(syr)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_8">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_53" name="nearbyArea" type="checkbox" value="704">
+                            twin tiers NY/PA <small>(tts)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_5">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_32" name="nearbyArea" type="checkbox" value="247">
+                            utica-rome-oneida <small>(uti)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_8">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_52" name="nearbyArea" type="checkbox" value="93">
+                            vermont <small>(brl)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_6">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_41" name="nearbyArea" type="checkbox" value="10">
+                            washington, DC <small>(wdc)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_8">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_48" name="nearbyArea" type="checkbox" value="337">
+                            watertown, NY <small>(wtn)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_8">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_51" name="nearbyArea" type="checkbox" value="329">
+                            western maryland <small>(wmd)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_2">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_16" name="nearbyArea" type="checkbox" value="173">
+                            western massachusetts <small>(wma)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_4">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_26" name="nearbyArea" type="checkbox" value="463">
+                            williamsport, PA <small>(wpt)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_7">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_47" name="nearbyArea" type="checkbox" value="711">
+                            winchester, VA <small>(okv)</small>
+</input></label>
+</li>
+<li class="nearbyZone nearbyZone_4">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_25" name="nearbyArea" type="checkbox" value="240"/>
+                            worcester / central MA <small>(wor)</small>
+</label>
+</li>
+<li class="nearbyZone nearbyZone_3">
+<label class="nearby">
+<input class="use-id nearbyArea" disabled="disabled" id="nearbyArea_22" name="nearbyArea" type="checkbox" value="357"/>
+                            york, PA <small>(yrk)</small>
+</label>
+</li>
+<li>
+<span class="nextNearbyZone linklike" data-zone="1">
+                            + show <span id="nearbyNumber">62</span> more...
+                        </span>
+</li>
+</ul>
+</div>
+<div class="searchgroup">
+<span class="searchfieldlabel">miles from zip</span>
+<input class="flatinput searchInput search_distance" inputmode="numeric" maxlength="5" name="search_distance" placeholder="miles" size="5" value=""/>
+<input class="flatinput searchInput postal" name="postal" placeholder="from zip" size="7" type="text" value=""/>
+<span class="icon icon-locate"></span>
+</div>
+<div class="searchgroup minmax price">
+<span class="searchfieldlabel">price</span>
+<input class="flatinput min" name="min_price" placeholder="min" title="whole number, no letters or symbols" type="tel" value=""/>
+<input class="flatinput max" name="max_price" placeholder="max" title="whole number, no letters or symbols" type="tel" value=""/>
+</div>
+<div class="searchgroup"><span class="searchfieldlabel">make and model</span>
+<input class="flatinput auto_make_model" data-autocomplete="makemodel" name="auto_make_model" placeholder="make / model" type="text" value="">
+</input></div><div class="searchgroup"><label class="crypto_currency_ok">
+<input class="autosubmit" name="crypto_currency_ok" type="checkbox" value="1">
+    cryptocurrency ok
+</input></label><br/>
+<label class="delivery_available">
+<input class="autosubmit" name="delivery_available" type="checkbox" value="1">
+    delivery available
+</input></label><br/>
+</div><div class="searchgroup"><div class="search-attribute hide-list" data-attr="language">
+<div class="title linklike">
+<span class="plus">▸</span><span class="minus">▾</span> language of posting
+    </div>
+<ul class="list">
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="language_1" name="language" type="checkbox" value="1"/>
+                    af
+                </label>
+</li>
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="language_2" name="language" type="checkbox" value="2"/>
+                    ca
+                </label>
+</li>
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="language_3" name="language" type="checkbox" value="3"/>
+                    da
+                </label>
+</li>
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="language_4" name="language" type="checkbox" value="4"/>
+                    de
+                </label>
+</li>
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="language_5" name="language" type="checkbox" value="5"/>
+                    en
+                </label>
+</li>
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="language_6" name="language" type="checkbox" value="6"/>
+                    es
+                </label>
+</li>
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="language_7" name="language" type="checkbox" value="7"/>
+                    fi
+                </label>
+</li>
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="language_8" name="language" type="checkbox" value="8"/>
+                    fr
+                </label>
+</li>
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="language_9" name="language" type="checkbox" value="9"/>
+                    it
+                </label>
+</li>
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="language_10" name="language" type="checkbox" value="10"/>
+                    nl
+                </label>
+</li>
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="language_11" name="language" type="checkbox" value="11"/>
+                    no
+                </label>
+</li>
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="language_12" name="language" type="checkbox" value="12"/>
+                    pt
+                </label>
+</li>
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="language_13" name="language" type="checkbox" value="13"/>
+                    sv
+                </label>
+</li>
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="language_14" name="language" type="checkbox" value="14"/>
+                    tl
+                </label>
+</li>
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="language_15" name="language" type="checkbox" value="15"/>
+                    tr
+                </label>
+</li>
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="language_16" name="language" type="checkbox" value="16"/>
+                    zh
+                </label>
+</li>
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="language_17" name="language" type="checkbox" value="17"/>
+                    ar
+                </label>
+</li>
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="language_18" name="language" type="checkbox" value="18"/>
+                    ja
+                </label>
+</li>
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="language_19" name="language" type="checkbox" value="19"/>
+                    ko
+                </label>
+</li>
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="language_20" name="language" type="checkbox" value="20"/>
+                    ru
+                </label>
+</li>
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="language_21" name="language" type="checkbox" value="21"/>
+                    vi
+                </label>
+</li>
+<li class="selectall js-only">
+<span class="all">select all</span>
+<span class="none">deselect all</span>
+</li>
+</ul>
+</div>
+<div class="search-attribute hide-list" data-attr="condition">
+<div class="title linklike">
+<span class="plus">▸</span><span class="minus">▾</span> condition
+    </div>
+<ul class="list">
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="condition_10" name="condition" type="checkbox" value="10"/>
+                    new
+                </label>
+</li>
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="condition_20" name="condition" type="checkbox" value="20"/>
+                    like new
+                </label>
+</li>
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="condition_30" name="condition" type="checkbox" value="30"/>
+                    excellent
+                </label>
+</li>
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="condition_40" name="condition" type="checkbox" value="40"/>
+                    good
+                </label>
+</li>
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="condition_50" name="condition" type="checkbox" value="50"/>
+                    fair
+                </label>
+</li>
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="condition_60" name="condition" type="checkbox" value="60"/>
+                    salvage
+                </label>
+</li>
+</ul>
+</div>
+<div class="search-attribute" data-attr="mobile_os">
+<div class="title linklike">
+<span class="plus">▸</span><span class="minus">▾</span> mobile OS
+    </div>
+<ul class="list">
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="mobile_os_1" name="mobile_os" type="checkbox" value="1"/>
+                    android
+                </label>
+</li>
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="mobile_os_2" name="mobile_os" type="checkbox" value="2"/>
+                    apple iOS
+                </label>
+</li>
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="mobile_os_3" name="mobile_os" type="checkbox" value="3"/>
+                    blackberry
+                </label>
+</li>
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="mobile_os_4" name="mobile_os" type="checkbox" value="4"/>
+                    windows mobile
+                </label>
+</li>
+<li class="checkbox">
+<label>
+<input class="multi_checkbox" id="mobile_os_20" name="mobile_os" type="checkbox" value="20"/>
+                    other
+                </label>
+</li>
+</ul>
+</div>
+</div>
+<div class="searchgroup resetsearch">
+<a class="reset linklike" href="/search/sss" title="clear all search parameters">reset</a>
+<button class="searchlink linklike" type="submit">update search</button>
+</div>
+<aside class="tsb">
+<ul>
+<li><a href="https://www.craigslist.org/about/safety">safety tips</a>
+<li><a href="https://www.craigslist.org/about/prohibited">prohibited items</a>
+<li><a href="https://www.craigslist.org/about/recalled_items">product recalls</a>
+<li><a href="https://www.craigslist.org/about/scams">avoiding scams</a>
+</li></li></li></li></ul>
+</aside>
+</input></div>
+</div>
+<div class="search-legend">
+<div class="search-view js-only">
+<div aria-expanded="false" aria-label="view options" class="dropdown dropdown-icons dropdown-arrows dropdown-view" role="toolbar">
+<ul class="dropdown-list">
+<li class="dropdown-item mode sel">
+<button data-selection="list" id="listview" title="show results in a list">
+<span class="view-list icon"></span>list
+                </button>
+<span class="toggle-arrow"></span>
+</li>
+<li class="dropdown-item mode">
+<button data-selection="pic" id="picview" title="show results in a list with thumbnail pictures">
+<span class="view-thumb icon"></span>thumb
+                </button>
+<span class="toggle-arrow"></span>
+</li>
+<li class="dropdown-item mode">
+<button data-selection="grid" id="gridview" title="show results side-by-side with larger pictures">
+<span class="view-gallery icon"></span>gallery
+                </button>
+<span class="toggle-arrow"></span>
+</li>
+<li class="dropdown-item mode">
+<button data-selection="map" id="mapview" title="show results on a map">
+<span class="view-map icon"></span>map
+                    </button>
+<span class="toggle-arrow"></span>
+</li>
+</ul>
+</div>
+</div>
+<div class="search-sort">
+<div aria-expanded="false" aria-label="sort options" class="dropdown dropdown-sort dropdown-arrows" data-default-sort="rel" role="toolbar">
+<ul class="dropdown-list">
+<li aria-selected="false" class="dropdown-item mode">
+<a data-selection="date" href="/search/sss?sort=date&amp;query=macbook%20air" title="show newest matches first">newest <span class="toggle-arrow"></span></a>
+</li>
+<li aria-selected="true" class="dropdown-item mode sel">
+<a data-selection="rel" href="/search/sss?sort=rel&amp;query=macbook%20air" title="show most relevant matches first">relevant <span class="toggle-arrow"></span></a>
+</li>
+<li aria-selected="false" class="dropdown-item mode">
+<a data-selection="priceasc" href="/search/sss?sort=priceasc&amp;query=macbook%20air" title="sort by price, lowest to highest">price ↑ <span class="toggle-arrow"></span></a>
+</li>
+<li aria-selected="false" class="dropdown-item mode">
+<a data-selection="pricedsc" href="/search/sss?sort=pricedsc&amp;query=macbook%20air" title="sort by price, highest to lowest">price ↓ <span class="toggle-arrow"></span></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="paginator buttongroup firstpage">
+<span class="resulttotal">
+<span class="for-map">
+        displaying <span class="displaycountShow">...</span> postings
+        </span>
+</span>
+<span class="buttons">
+<a class="button first" href="/search/sss?query=macbook%20air&amp;sort=rel" title="first page">&lt;&lt;</a>
+<span class="button first" title="first page">&lt;&lt;</span>
+<a class="button prev" href="/search/sss?query=macbook%20air&amp;sort=rel" title="previous page">&lt; prev</a>
+<span class="button prev" title="previous page">&lt; prev</span>
+<span class="button pagenum">
+<span class="range">
+<span class="rangeFrom">1</span>
+                -
+                <span class="rangeTo">120</span>
+</span>
+            /
+            <span class="totalcount">671</span>
+</span>
+<a class="button next" href="/search/sss?s=120&amp;query=macbook%20air&amp;sort=rel" title="next page">next &gt; </a>
+<span class="button next" title="next page"> next &gt; </span>
+</span>
+</div>
+</div>
+<div class="content" id="sortable-results">
+<section class="favlistsection">
+<section class="favlistinfo">
+</section>
+<section class="banishlistinfo">
+</section>
+</section>
+<div class="open-map-view-button">
+<span>see in map view</span>
+</div>
+<div data-arealat="40.714199" data-arealon="-74.006401" id="mapcontainer">
+<div id="noresult-overlay"></div>
+<div id="noresult-text">
+<span class="message">No mappable items found</span>
+</div>
+<div class="loading" id="map">
+<div class="close-full-screen-map-mode-button">close fullscreen</div>
+<div class="close-map-view-button">close map</div>
+</div>
+</div>
+<ul class="rows">
+<li class="result-row" data-pid="6981016627">
+<a class="result-image gallery" data-ids="1:00000_9dSFCHbLmzy" href="https://newyork.craigslist.org/mnh/sys/d/new-york-like-new-macbook-air-133-inch/6981016627.html">
+<span class="result-price">$700</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-17 21:15" title="Tue 17 Sep 09:15:48 PM">Sep 17</time>
+<a class="result-title hdrlnk" data-id="6981016627" href="https://newyork.craigslist.org/mnh/sys/d/new-york-like-new-macbook-air-133-inch/6981016627.html">*LIKE NEW* MacBook Air 13.3 inch Retina 8GB RAM 128GB Storage</a>
+<span class="result-meta">
+<span class="result-price">$700</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6968054736" data-repost-of="6806959700">
+<a class="result-image gallery empty" href="https://newyork.craigslist.org/brk/ele/d/brooklyn-macbook-air/6968054736.html"></a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-17 20:15" title="Tue 17 Sep 08:15:03 PM">Sep 17</time>
+<a class="result-title hdrlnk" data-id="6968054736" href="https://newyork.craigslist.org/brk/ele/d/brooklyn-macbook-air/6968054736.html">Macbook air</a>
+<span class="result-meta">
+<span class="result-price">$700</span>
+<span class="result-hood"> (Prospect heights)</span>
+<span class="result-tags">
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6971636837" data-repost-of="6953994676">
+<a class="result-image gallery" data-ids="1:00404_cO2U8M8444Z,1:00Q0Q_9D2fp6ouOJT,1:01515_l3R7GfMyiw8,1:00U0U_17frvUpGo1O" href="https://newyork.craigslist.org/mnh/sys/d/new-york-city-macbook-air13new-model/6971636837.html">
+<span class="result-price">$0</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-17 20:08" title="Tue 17 Sep 08:08:05 PM">Sep 17</time>
+<a class="result-title hdrlnk" data-id="6971636837" href="https://newyork.craigslist.org/mnh/sys/d/new-york-city-macbook-air13new-model/6971636837.html">MacBook Air13"New model like a New</a>
+<span class="result-meta">
+<span class="result-price">$0</span>
+<span class="result-hood"> (Upper East Side)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6980888080" data-repost-of="6503001036">
+<a class="result-image gallery" data-ids="1:00X0X_iH7wJ3DNIYI,1:00303_2yZ6DSKFnX1" href="https://newyork.craigslist.org/brk/sop/d/brooklyn-13-macbook-air-2015/6980888080.html">
+<span class="result-price">$500</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-17 18:07" title="Tue 17 Sep 06:07:11 PM">Sep 17</time>
+<a class="result-title hdrlnk" data-id="6980888080" href="https://newyork.craigslist.org/brk/sop/d/brooklyn-13-macbook-air-2015/6980888080.html">13” MacBook Air  2015</a>
+<span class="result-meta">
+<span class="result-price">$500</span>
+<span class="result-hood"> (Brooklyn NY)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6971716156" data-repost-of="6458796182">
+<a class="result-image gallery" data-ids="1:00x0x_7vxZ0FnwHvH" href="https://newyork.craigslist.org/mnh/sop/d/new-york-city-apple-macbook-charger/6971716156.html">
+<span class="result-price">$35</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-17 17:57" title="Tue 17 Sep 05:57:29 PM">Sep 17</time>
+<a class="result-title hdrlnk" data-id="6971716156" href="https://newyork.craigslist.org/mnh/sop/d/new-york-city-apple-macbook-charger/6971716156.html">Apple Macbook charger adapter fo  13" or Air Laptops  - Excellent</a>
+<span class="result-meta">
+<span class="result-price">$35</span>
+<span class="result-hood"> (Financial District)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6977017445" data-repost-of="4937412699">
+<a class="result-image gallery" data-ids="1:01616_cToMZ6e6aB7,1:00505_21obhWcjMim,1:00R0R_3t8rwnAFVmW" href="https://newyork.craigslist.org/mnh/sys/d/new-york-city-macbook-air-13-i7-8gb/6977017445.html">
+<span class="result-price">$265</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-17 17:50" title="Tue 17 Sep 05:50:41 PM">Sep 17</time>
+<a class="result-title hdrlnk" data-id="6977017445" href="https://newyork.craigslist.org/mnh/sys/d/new-york-city-macbook-air-13-i7-8gb/6977017445.html">Macbook Air 13" i7, 8GB READ DESCRIPTION!</a>
+<span class="result-meta">
+<span class="result-price">$265</span>
+<span class="result-hood"> (Upper West Side)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6980839488" data-repost-of="6932075083">
+<a class="result-image gallery" data-ids="1:00E0E_hm0ito2ynaK,1:01414_3Vm2rBBTAhR,1:00505_gS8WuHDdD4P,1:00f0f_5JjkwKS6eQA,1:00o0o_gjwoEwt4WUR,1:00808_bIWbRkDt4em,1:00O0O_ko6CRr1ReSb" href="https://newyork.craigslist.org/lgi/sys/d/norwalk-2015-macbook-air-gb-525-each-ms/6980839488.html">
+<span class="result-price">$525</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-17 17:48" title="Tue 17 Sep 05:48:21 PM">Sep 17</time>
+<a class="result-title hdrlnk" data-id="6980839488" href="https://newyork.craigslist.org/lgi/sys/d/norwalk-2015-macbook-air-gb-525-each-ms/6980839488.html">2015 MacBook Air (13", 256GB) @525 each, MS Office 2019 (optional)</a>
+<span class="result-meta">
+<span class="result-price">$525</span>
+<span class="result-hood"> (Norwalk/Wilton CT)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6980850326" data-repost-of="6967964976">
+<a class="result-image gallery" data-ids="1:00f0f_f9JI8DKAhhz" href="https://newyork.craigslist.org/brk/sys/d/brooklyn-macbook-air-i5-16gb-256gb-ssd/6980850326.html">
+<span class="result-price">$800</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-17 17:37" title="Tue 17 Sep 05:37:36 PM">Sep 17</time>
+<a class="result-title hdrlnk" data-id="6980850326" href="https://newyork.craigslist.org/brk/sys/d/brooklyn-macbook-air-i5-16gb-256gb-ssd/6980850326.html">Macbook Air 13 2018 1.6 i5 16gb 256Gb SSD Retina</a>
+<span class="result-meta">
+<span class="result-price">$800</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6978986764" data-repost-of="6962686308">
+<a class="result-image gallery" data-ids="1:00606_hrAyWFSBWjJ,1:00N0N_fyd2kKsZj8w,1:00W0W_96zaZvLXVak,1:00G0G_6rQOTiNWVI" href="https://newyork.craigslist.org/mnh/sys/d/norwalk-macbook-air-11-inch-2015-ms/6978986764.html">
+<span class="result-price">$450</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-17 17:00" title="Tue 17 Sep 05:00:26 PM">Sep 17</time>
+<a class="result-title hdrlnk" data-id="6978986764" href="https://newyork.craigslist.org/mnh/sys/d/norwalk-macbook-air-11-inch-2015-ms/6978986764.html">MacBook Air (11-inch, 2015), MS Office 2019</a>
+<span class="result-meta">
+<span class="result-price">$450</span>
+<span class="result-hood"> (Norwalk CT)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6978988228">
+<a class="result-image gallery" data-ids="1:00M0M_7SDxIKWhYKc" href="https://newyork.craigslist.org/fct/sys/d/wilton-brand-new-13-macbook-air-each-ms/6978988228.html">
+<span class="result-price">$650</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-17 17:00" title="Tue 17 Sep 05:00:11 PM">Sep 17</time>
+<a class="result-title hdrlnk" data-id="6978988228" href="https://newyork.craigslist.org/fct/sys/d/wilton-brand-new-13-macbook-air-each-ms/6978988228.html">Brand New 13" MacBook Air (2017, $650 each), MS Office 2019</a>
+<span class="result-meta">
+<span class="result-price">$650</span>
+<span class="result-hood"> (Wilton CT)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6980837945" data-repost-of="6932072823">
+<a class="result-image gallery" data-ids="1:00m0m_d5GQRWhYN9w,1:00404_jW4oDBicJ1v,1:00T0T_hRMDxCT0Qjp,1:00m0m_8lBsf7gISfp,1:00L0L_2K5uHWy91rQ,1:00j0j_i0B5Ky3uZTC,1:00X0X_3a6Xz8ZQXbI,1:00D0D_g84OdeMcnj0,1:00h0h_7BF1MNT5UVg,1:00404_jBM23EwFnap" href="https://newyork.craigslist.org/mnh/sys/d/norwalk-2015-macbook-air-each-ms-office/6980837945.html">
+<span class="result-price">$450</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-17 17:00" title="Tue 17 Sep 05:00:26 PM">Sep 17</time>
+<a class="result-title hdrlnk" data-id="6980837945" href="https://newyork.craigslist.org/mnh/sys/d/norwalk-2015-macbook-air-each-ms-office/6980837945.html">2015 MacBook Air 13" @$450 each, MS Office 2019 (optional install)</a>
+<span class="result-meta">
+<span class="result-price">$450</span>
+<span class="result-hood"> (Norwalk CT)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6980838382" data-repost-of="6837808207">
+<a class="result-image gallery" data-ids="1:00909_j4A9DAeXwTl,1:00K0K_jOTBsMaOWTN,1:01313_6HXCyNZTjed,1:00X0X_8gkDYfA3OQQ,1:00s0s_7Mtg5nPRnbx,1:00202_2LFeXbYEEu3,1:00U0U_fNagGckQUHt,1:00V0V_l8MunzhID5D,1:01616_b1WTbUWcKY,1:00X0X_few0jPGMQGW,1:00M0M_1haQbnCUNQs" href="https://newyork.craigslist.org/fct/sys/d/norwalk-2015-macbook-air-13-microsoft/6980838382.html">
+<span class="result-price">$450</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-17 16:53" title="Tue 17 Sep 04:53:59 PM">Sep 17</time>
+<a class="result-title hdrlnk" data-id="6980838382" href="https://newyork.craigslist.org/fct/sys/d/norwalk-2015-macbook-air-13-microsoft/6980838382.html">2015 MacBook Air (13"), Microsoft Office 2016</a>
+<span class="result-meta">
+<span class="result-price">$450</span>
+<span class="result-hood"> (Norwalk CT)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6978335542" data-repost-of="6920602920">
+<a class="result-image gallery" data-ids="1:00A0A_3ocX88vQc8m,1:01313_bSVhxBf7JUB,1:00b0b_bzXCDDXOkmq,1:00X0X_kpNPpD4HbgT,1:00808_fdwUdnXxsrV,1:00S0S_fYitG14IuSq,1:00u0u_4BOpulPkC3r,1:00K0K_hOkgA6dj4lG,1:00404_8QLgRcTIB74,1:00w0w_fmTCgRYnaOz,1:00707_63fsl3WJ3o2" href="https://newyork.craigslist.org/mnh/sys/d/norwalk-2017-macbook-air-8gb-ram-256gb/6978335542.html">
+<span class="result-price">$700</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-17 16:50" title="Tue 17 Sep 04:50:37 PM">Sep 17</time>
+<a class="result-title hdrlnk" data-id="6978335542" href="https://newyork.craigslist.org/mnh/sys/d/norwalk-2017-macbook-air-8gb-ram-256gb/6978335542.html">2017 MacBook Air, 8GB RAM, 256GB, 25 Cycles, Microsoft Office 2019</a>
+<span class="result-meta">
+<span class="result-price">$700</span>
+<span class="result-hood"> (Norwalk CT)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6980825906">
+<a class="result-image gallery" data-ids="1:00606_gu7QCde1XZS,1:00f0f_5YKBuLWRoJV,1:00s0s_6IiZKJ5ISCW,1:01717_4Hz5cR7fWdg,1:00Z0Z_gDJ3HIS4Zhh" href="https://newyork.craigslist.org/brk/sys/d/brooklyn-macbook-air-13-inch-18-ghz/6980825906.html">
+<span class="result-price">$420</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-17 16:39" title="Tue 17 Sep 04:39:04 PM">Sep 17</time>
+<a class="result-title hdrlnk" data-id="6980825906" href="https://newyork.craigslist.org/brk/sys/d/brooklyn-macbook-air-13-inch-18-ghz/6980825906.html">MacBook Air 13-inch 1.8 GHz Intel Core i5 SSD 128GB 4GB Ram OSX Mojave</a>
+<span class="result-meta">
+<span class="result-price">$420</span>
+<span class="result-hood"> (ny)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6968779326">
+<a class="result-image gallery" data-ids="1:00E0E_kH5B1eRCzjU,1:00s0s_1ZDvsbZHBBs,1:00606_dJEtiLym3YL" href="https://newyork.craigslist.org/mnh/sys/d/new-york-apple-macbook-air-13-core-i7/6968779326.html">
+<span class="result-price">$550</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-17 15:31" title="Tue 17 Sep 03:31:21 PM">Sep 17</time>
+<a class="result-title hdrlnk" data-id="6968779326" href="https://newyork.craigslist.org/mnh/sys/d/new-york-apple-macbook-air-13-core-i7/6968779326.html">Apple MacBook Air 13” Core i7 2.2Ghz 8GB 512SSD 2015 model</a>
+<span class="result-meta">
+<span class="result-price">$550</span>
+<span class="result-hood"> (Upper West Side)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6980747267">
+<a class="result-image gallery" data-ids="1:00R0R_a0t9otejfT0,1:00Q0Q_8KmsgDpUrbB" href="https://newyork.craigslist.org/mnh/sys/d/new-york-great-condition-2011-apple/6980747267.html">
+<span class="result-price">$250</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-17 14:57" title="Tue 17 Sep 02:57:40 PM">Sep 17</time>
+<a class="result-title hdrlnk" data-id="6980747267" href="https://newyork.craigslist.org/mnh/sys/d/new-york-great-condition-2011-apple/6980747267.html">Great Condition 2011 Apple Macbook Air</a>
+<span class="result-meta">
+<span class="result-price">$250</span>
+<span class="result-hood"> (Financial District)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6977051574" data-repost-of="6969167138">
+<a class="result-image gallery" data-ids="1:00U0U_ls68BPfe7j5,1:00Z0Z_fMJYKc0nImw,1:00G0G_dRlySw1LFtD" href="https://newyork.craigslist.org/brk/sys/d/brooklyn-genuine-apple-85w-magsafe-2/6977051574.html">
+<span class="result-price">$30</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-17 14:34" title="Tue 17 Sep 02:34:57 PM">Sep 17</time>
+<a class="result-title hdrlnk" data-id="6977051574" href="https://newyork.craigslist.org/brk/sys/d/brooklyn-genuine-apple-85w-magsafe-2/6977051574.html">Genuine Apple 85W MagSafe 2 Adapter for MacBook Pro macbook air with R</a>
+<span class="result-meta">
+<span class="result-price">$30</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6980722258">
+<a class="result-image gallery" data-ids="1:00f0f_eOFJpoj1gMF,1:00i0i_gGCTox8h04U,1:00202_1FoyreZwV0X,1:00F0F_bcMM1OyOJgN,1:00505_crpjCCbmIVn,1:00a0a_7V23jvk3aHU" href="https://newyork.craigslist.org/brx/ele/d/bronx-macbook-air-2015-i5-processor/6980722258.html">
+<span class="result-price">$400</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-17 14:30" title="Tue 17 Sep 02:30:30 PM">Sep 17</time>
+<a class="result-title hdrlnk" data-id="6980722258" href="https://newyork.craigslist.org/brx/ele/d/bronx-macbook-air-2015-i5-processor/6980722258.html">MacBook Air 2015 i5 processor 128gb 4gb ram</a>
+<span class="result-meta">
+<span class="result-price">$400</span>
+<span class="result-hood"> (Bronx)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6980688490">
+<a class="result-image gallery" data-ids="1:00U0U_j5yGVR19jFk,1:00c0c_idYvh0KGdNu,1:00j0j_deOrXVYOjRV,1:00G0G_YI8IOFA10n,1:00F0F_cnmLLhj2xq4,1:00o0o_aXa9PeJlD8n" href="https://newyork.craigslist.org/jsy/sys/d/paterson-macbook-air-month-warranty/6980688490.html">
+<span class="result-price">$450</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-17 14:06" title="Tue 17 Sep 02:06:22 PM">Sep 17</time>
+<a class="result-title hdrlnk" data-id="6980688490" href="https://newyork.craigslist.org/jsy/sys/d/paterson-macbook-air-month-warranty/6980688490.html">MacBook Air 13.3” 2014 6 Month Warranty</a>
+<span class="result-meta">
+<span class="result-price">$450</span>
+<span class="result-hood"> (505 saddle river road , saddle brook nj)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6980661742" data-repost-of="6790957277">
+<a class="result-image gallery" data-ids="1:00F0F_aszvvgnQoQH" href="https://newyork.craigslist.org/brk/sys/d/brooklyn-charger-for-macbook-pro/6980661742.html">
+<span class="result-price">$45</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-17 13:47" title="Tue 17 Sep 01:47:05 PM">Sep 17</time>
+<a class="result-title hdrlnk" data-id="6980661742" href="https://newyork.craigslist.org/brk/sys/d/brooklyn-charger-for-macbook-pro/6980661742.html">Charger for macbook pro ORIGINAL APPLE OEM RETINA Air</a>
+<span class="result-meta">
+<span class="result-price">$45</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6977832073" data-repost-of="6419038276">
+<a class="result-image gallery empty" href="https://newyork.craigslist.org/que/mob/d/corona-iphone-s-5-semacbook-pro-air/6977832073.html"></a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-17 12:25" title="Tue 17 Sep 12:25:06 PM">Sep 17</time>
+<a class="result-title hdrlnk" data-id="6977832073" href="https://newyork.craigslist.org/que/mob/d/corona-iphone-s-5-semacbook-pro-air/6977832073.html">IPHONE X/8/7/6/6s/5/SE.MacBook Pro/Air/IPAD / MINI 4/Air. Empty Boxes.</a>
+<span class="result-meta">
+<span class="result-price">$4</span>
+<span class="result-hood"> (Elmhurst-Queens)</span>
+<span class="result-tags">
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6978970756" data-repost-of="6951833190">
+<a class="result-image gallery" data-ids="1:00Q0Q_eVuHT6zmJNj,1:00z0z_ciOpGeKksw,1:00C0C_45ZKH1gSukq" href="https://newyork.craigslist.org/mnh/sys/d/new-york-city-macbook-air-13-core-i7/6978970756.html">
+<span class="result-price">$699</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-17 12:01" title="Tue 17 Sep 12:01:00 PM">Sep 17</time>
+<a class="result-title hdrlnk" data-id="6978970756" href="https://newyork.craigslist.org/mnh/sys/d/new-york-city-macbook-air-13-core-i7/6978970756.html">Macbook Air 13'' Core i7, 256GB SSD, 8GB Ram - Like new</a>
+<span class="result-meta">
+<span class="result-price">$699</span>
+<span class="result-hood"> (Midtown East)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6980523445">
+<a class="result-image gallery" data-ids="1:01010_OF3ASHnhQp,1:00G0G_6eiYBsxiwvw,1:00q0q_5Od4IfCig6A,1:00p0p_4faIDTzjK4n" href="https://newyork.craigslist.org/mnh/sys/d/new-york-macbook-air-late-2010-intel/6980523445.html">
+<span class="result-price">$249</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-17 11:05" title="Tue 17 Sep 11:05:01 AM">Sep 17</time>
+<a class="result-title hdrlnk" data-id="6980523445" href="https://newyork.craigslist.org/mnh/sys/d/new-york-macbook-air-late-2010-intel/6980523445.html">MacBook Air Late 2010 Intel Core 2 Duo 2.13GHz 4GB RAM 256GB 13"</a>
+<span class="result-meta">
+<span class="result-price">$249</span>
+<span class="result-hood"> (Lower East Side)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6961141575">
+<a class="result-image gallery" data-ids="1:00x0x_8RFbOBYcUtk,1:00c0c_1E8PhqiQLms,1:00707_eLlX4ufSpZF" href="https://newyork.craigslist.org/mnh/ele/d/new-york-macbook-air-i5-17ghz-4gb-ram/6961141575.html">
+<span class="result-price">$550</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-17 10:42" title="Tue 17 Sep 10:42:19 AM">Sep 17</time>
+<a class="result-title hdrlnk" data-id="6961141575" href="https://newyork.craigslist.org/mnh/ele/d/new-york-macbook-air-i5-17ghz-4gb-ram/6961141575.html">MacBook Air 2011 13” i5 1.7ghz 4gb Ram</a>
+<span class="result-meta">
+<span class="result-price">$550</span>
+<span class="result-hood"> (Midtown East)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6969591512" data-repost-of="6518817734">
+<a class="result-image gallery" data-ids="1:00m0m_jDhhTFNDJdj,1:01212_eF7wHYMkRcj,1:00V0V_9BC0XjdLhKg,1:00o0o_db5JGF6hK8F,1:00k0k_liDX4LYc0jc" href="https://newyork.craigslist.org/mnh/mob/d/new-york-city-macbook-air-i5-for-sell/6969591512.html">
+<span class="result-price">$380</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-17 10:39" title="Tue 17 Sep 10:39:43 AM">Sep 17</time>
+<a class="result-title hdrlnk" data-id="6969591512" href="https://newyork.craigslist.org/mnh/mob/d/new-york-city-macbook-air-i5-for-sell/6969591512.html">MacBook Air I5 for sell</a>
+<span class="result-meta">
+<span class="result-price">$380</span>
+<span class="result-hood"> (Midtown East)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6970390977" data-repost-of="6518817734">
+<a class="result-image gallery" data-ids="1:00k0k_liDX4LYc0jc,1:00V0V_9BC0XjdLhKg,1:00o0o_db5JGF6hK8F,1:00m0m_jDhhTFNDJdj" href="https://newyork.craigslist.org/mnh/mob/d/new-york-city-macbook-air-i5-for-sell/6970390977.html">
+<span class="result-price">$350</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-17 10:38" title="Tue 17 Sep 10:38:47 AM">Sep 17</time>
+<a class="result-title hdrlnk" data-id="6970390977" href="https://newyork.craigslist.org/mnh/mob/d/new-york-city-macbook-air-i5-for-sell/6970390977.html">MacBook Air I5 for sell</a>
+<span class="result-meta">
+<span class="result-price">$350</span>
+<span class="result-hood"> (Midtown East)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6966905888" data-repost-of="6569828093">
+<a class="result-image gallery" data-ids="1:00I0I_6aw929u2T0P,1:00S0S_iuBbfIp0P88,1:00r0r_kcCJBT04mj0,1:00C0C_jGguLrY0HoB,1:00n0n_4WPOQByKiL1,1:00x0x_7L2wn1H2wGW,1:00d0d_al68NF8zmP4,1:00n0n_j9PqB8oGrfs,1:00n0n_9aA1TQkKt8m" href="https://newyork.craigslist.org/brk/sys/d/brooklyn-like-new-macbook-air-13-inch/6966905888.html">
+<span class="result-price">$650</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-17 09:14" title="Tue 17 Sep 09:14:29 AM">Sep 17</time>
+<a class="result-title hdrlnk" data-id="6966905888" href="https://newyork.craigslist.org/brk/sys/d/brooklyn-like-new-macbook-air-13-inch/6966905888.html">Like New MacBook Air (13-inch, 2017) Loaded !!</a>
+<span class="result-meta">
+<span class="result-price">$650</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6960786682" data-repost-of="6813024437">
+<a class="result-image gallery" data-ids="1:00A0A_x9lGSvl2Ng" href="https://newyork.craigslist.org/mnh/sop/d/new-york-city-apple-macbook-air-13/6960786682.html">
+<span class="result-price">$15</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-17 09:12" title="Tue 17 Sep 09:12:30 AM">Sep 17</time>
+<a class="result-title hdrlnk" data-id="6960786682" href="https://newyork.craigslist.org/mnh/sop/d/new-york-city-apple-macbook-air-13/6960786682.html">Apple MacBook Air 13" - Retail Box</a>
+<span class="result-meta">
+<span class="result-price">$15</span>
+<span class="result-hood"> (Midtown West)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6980421055" data-repost-of="6979055609">
+<a class="result-image gallery" data-ids="1:00V0V_igZYfrEgRZq,1:00L0L_60xm8Ea3tAL,1:00L0L_6xa6ItxAiw4,1:00202_8AW0n49Rx7r,1:00U0U_iBZeWAD2dAU" href="https://newyork.craigslist.org/mnh/sys/d/new-york-macbook-air-13inch-2018-finger/6980421055.html">
+<span class="result-price">$350</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-17 08:47" title="Tue 17 Sep 08:47:31 AM">Sep 17</time>
+<a class="result-title hdrlnk" data-id="6980421055" href="https://newyork.craigslist.org/mnh/sys/d/new-york-macbook-air-13inch-2018-finger/6980421055.html">MacBook Air 13inch 2018 finger print brand new</a>
+<span class="result-meta">
+<span class="result-price">$350</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6976156026">
+<a class="result-image gallery" data-ids="1:00f0f_8oRM8BPYpzu,1:00J0J_eTweTke7JO1,1:00808_eoz0ozOmJru" href="https://newyork.craigslist.org/mnh/sys/d/new-york-13-macbook-air-mid-2017/6976156026.html">
+<span class="result-price">$520</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-17 02:34" title="Tue 17 Sep 02:34:03 AM">Sep 17</time>
+<a class="result-title hdrlnk" data-id="6976156026" href="https://newyork.craigslist.org/mnh/sys/d/new-york-13-macbook-air-mid-2017/6976156026.html">13” MacBook Air (mid 2017)</a>
+<span class="result-meta">
+<span class="result-price">$520</span>
+<span class="result-hood"> (Harlem / Morningside)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6973928509" data-repost-of="6936082351">
+<a class="result-image gallery" data-ids="1:00V0V_i8JA83g1FWb,1:00W0W_aIXbDtRlCIB,1:00S0S_fmLpEkrphce" href="https://newyork.craigslist.org/mnh/sys/d/new-york-city-brand-new-apple-macbook/6973928509.html">
+<span class="result-price">$850</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-16 21:35" title="Mon 16 Sep 09:35:05 PM">Sep 16</time>
+<a class="result-title hdrlnk" data-id="6973928509" href="https://newyork.craigslist.org/mnh/sys/d/new-york-city-brand-new-apple-macbook/6973928509.html">BRAND NEW Apple MacBook Air Gold i5/8GB/128GB</a>
+<span class="result-meta">
+<span class="result-price">$850</span>
+<span class="result-hood"> (Midtown East)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6980246026">
+<a class="result-image gallery empty" href="https://newyork.craigslist.org/wch/sys/d/yonkers-macbook-air-ipad-air/6980246026.html"></a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-16 20:26" title="Mon 16 Sep 08:26:39 PM">Sep 16</time>
+<a class="result-title hdrlnk" data-id="6980246026" href="https://newyork.craigslist.org/wch/sys/d/yonkers-macbook-air-ipad-air/6980246026.html">Macbook Air &amp; Ipad air</a>
+<span class="result-meta">
+<span class="result-price">$650</span>
+<span class="result-hood"> (Yonkers)</span>
+<span class="result-tags">
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6959216150">
+<a class="result-image gallery" data-ids="1:00U0U_9VUVDy8EqIA,1:00l0l_3tTfZaRnhGM" href="https://newyork.craigslist.org/wch/sys/d/yonkers-13-macbook-air-late-2010/6959216150.html">
+<span class="result-price">$300</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-16 19:06" title="Mon 16 Sep 07:06:26 PM">Sep 16</time>
+<a class="result-title hdrlnk" data-id="6959216150" href="https://newyork.craigslist.org/wch/sys/d/yonkers-13-macbook-air-late-2010/6959216150.html">13" MacBook Air (Late 2010)</a>
+<span class="result-meta">
+<span class="result-price">$300</span>
+<span class="result-hood"> (Westchester/Bronx)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6980191890" data-repost-of="6965199799">
+<a class="result-image gallery" data-ids="1:00h0h_1VRMjG4TDGa,1:00808_8Shly59lU4q,1:00101_cFBARyQiaCZ,1:00Z0Z_j0vqQgj6Uqu,1:00101_8CvRqiyvOlw" href="https://newyork.craigslist.org/mnh/sys/d/new-york-2015-macbook-air-13/6980191890.html">
+<span class="result-price">$280</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-16 18:58" title="Mon 16 Sep 06:58:06 PM">Sep 16</time>
+<a class="result-title hdrlnk" data-id="6980191890" href="https://newyork.craigslist.org/mnh/sys/d/new-york-2015-macbook-air-13/6980191890.html">2015 Macbook Air 13"</a>
+<span class="result-meta">
+<span class="result-price">$280</span>
+<span class="result-hood"> (Inwood / Wash Hts)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6980108452">
+<a class="result-image gallery" data-ids="1:00202_iIJKdWSFFho,1:00F0F_2JP9wlvluzH,1:00b0b_3IasOPPFJaM,1:00909_9zm3TkYD7zu,1:00U0U_3imcoLtSTHi" href="https://newyork.craigslist.org/mnh/sys/d/new-york-macbook-air-2018/6980108452.html">
+<span class="result-price">$800</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-16 17:06" title="Mon 16 Sep 05:06:32 PM">Sep 16</time>
+<a class="result-title hdrlnk" data-id="6980108452" href="https://newyork.craigslist.org/mnh/sys/d/new-york-macbook-air-2018/6980108452.html">MacBook Air 2018</a>
+<span class="result-meta">
+<span class="result-price">$800</span>
+<span class="result-hood"> (Midtown West)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6966394946">
+<a class="result-image gallery" data-ids="1:00S0S_gfDN0uDm8MM" href="https://newyork.craigslist.org/mnh/sop/d/new-york-original-apple-macbook-air-11/6966394946.html">
+<span class="result-price">$20</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-16 14:55" title="Mon 16 Sep 02:55:09 PM">Sep 16</time>
+<a class="result-title hdrlnk" data-id="6966394946" href="https://newyork.craigslist.org/mnh/sop/d/new-york-original-apple-macbook-air-11/6966394946.html">Original Apple MacBook Air 11" or 13" MagSafe 45W Power Supply Charge</a>
+<span class="result-meta">
+<span class="result-price">$20</span>
+<span class="result-hood"> (Greenwich Village)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6979985718">
+<a class="result-image gallery" data-ids="1:00l0l_8STizYL8z3n,1:00a0a_akppwqs6G7V,1:00A0A_gYZmqkMSBGO,1:00m0m_MPr8qbiF9f,1:00505_1eDiTyMNWM0" href="https://newyork.craigslist.org/mnh/sys/d/clifton-macbook-air-gold-2018-with/6979985718.html">
+<span class="result-price">$700</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-16 14:49" title="Mon 16 Sep 02:49:52 PM">Sep 16</time>
+<a class="result-title hdrlnk" data-id="6979985718" href="https://newyork.craigslist.org/mnh/sys/d/clifton-macbook-air-gold-2018-with/6979985718.html">MacBook Air gold 2018 with touch ID</a>
+<span class="result-meta">
+<span class="result-price">$700</span>
+<span class="result-hood"> (Clifton)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6979809285">
+<a class="result-image gallery" data-ids="1:00606_iufLl0opIz,1:00E0E_jTODCkHNOU6,1:00s0s_adTDTnDrjoq" href="https://newyork.craigslist.org/mnh/sys/d/brooklyn-apple-macbook-air-13-core-i7/6979809285.html">
+<span class="result-price">$699</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-16 13:04" title="Mon 16 Sep 01:04:06 PM">Sep 16</time>
+<a class="result-title hdrlnk" data-id="6979809285" href="https://newyork.craigslist.org/mnh/sys/d/brooklyn-apple-macbook-air-13-core-i7/6979809285.html">APPLE MACBOOK AIR 13'' CORE I7 2GHZ, 256GB SSD , 8GB RAM, MS OFFICE</a>
+<span class="result-meta">
+<span class="result-price">$699</span>
+<span class="result-hood"> (Brooklyn)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6979806242">
+<a class="result-image gallery" data-ids="1:00W0W_5kDL452pJTf,1:00k0k_bAq6YhaHkZ,1:00K0K_g7fswV7IoVm,1:00k0k_kxaMsDQ1iYl" href="https://newyork.craigslist.org/mnh/sys/d/brooklyn-macbook-air-13-i5-17ghz-4gb/6979806242.html">
+<span class="result-price">$449</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-16 12:56" title="Mon 16 Sep 12:56:55 PM">Sep 16</time>
+<a class="result-title hdrlnk" data-id="6979806242" href="https://newyork.craigslist.org/mnh/sys/d/brooklyn-macbook-air-13-i5-17ghz-4gb/6979806242.html">MACBOOK AIR 13” I5 1.7GHZ, 4GB RAM, 128GB SSD, CS6, MICROSOFT</a>
+<span class="result-meta">
+<span class="result-price">$449</span>
+<span class="result-hood"> (brooklyn)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6968274627" data-repost-of="6942737366">
+<a class="result-image gallery empty" href="https://newyork.craigslist.org/mnh/sys/d/new-york-city-macbook-air-new/6968274627.html"></a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-16 12:51" title="Mon 16 Sep 12:51:15 PM">Sep 16</time>
+<a class="result-title hdrlnk" data-id="6968274627" href="https://newyork.craigslist.org/mnh/sys/d/new-york-city-macbook-air-new/6968274627.html">Macbook Air- 13" - NEW</a>
+<span class="result-meta">
+<span class="result-price">$700</span>
+<span class="result-tags">
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6968274710" data-repost-of="6942735478">
+<a class="result-image gallery empty" href="https://newyork.craigslist.org/lgi/sys/d/huntington-station-apple-macbook-air-new/6968274710.html"></a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-16 12:51" title="Mon 16 Sep 12:51:09 PM">Sep 16</time>
+<a class="result-title hdrlnk" data-id="6968274710" href="https://newyork.craigslist.org/lgi/sys/d/huntington-station-apple-macbook-air-new/6968274710.html">Apple Macbook - Air - NEW</a>
+<span class="result-meta">
+<span class="result-price">$700</span>
+<span class="result-tags">
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6978395044" data-repost-of="6744021447">
+<a class="result-image gallery empty" href="https://newyork.craigslist.org/wch/sys/d/new-rochelle-apple-macbook-air-new-model/6978395044.html"></a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-16 12:49" title="Mon 16 Sep 12:49:29 PM">Sep 16</time>
+<a class="result-title hdrlnk" data-id="6978395044" href="https://newyork.craigslist.org/wch/sys/d/new-rochelle-apple-macbook-air-new-model/6978395044.html">Apple Macbook Air - NEW MODEL</a>
+<span class="result-meta">
+<span class="result-price">$700</span>
+<span class="result-hood"> (New York, NY)</span>
+<span class="result-tags">
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6979829842" data-repost-of="6969794400">
+<a class="result-image gallery" data-ids="1:01010_3SVxiEu7dbL,1:00g0g_6uhAZk1nQEk,1:00h0h_jE5XjTthaug" href="https://newyork.craigslist.org/que/sys/d/ocean-city-apple-macbook-air/6979829842.html">
+<span class="result-price">$650</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-16 12:11" title="Mon 16 Sep 12:11:16 PM">Sep 16</time>
+<a class="result-title hdrlnk" data-id="6979829842" href="https://newyork.craigslist.org/que/sys/d/ocean-city-apple-macbook-air/6979829842.html">Apple MacBook Air</a>
+<span class="result-meta">
+<span class="result-price">$650</span>
+<span class="result-hood"> (Far Rockaway)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6977067028" data-repost-of="6419038276">
+<a class="result-image gallery empty" href="https://newyork.craigslist.org/que/mob/d/corona-iphone-s-5-semacbook-pro-air/6977067028.html"></a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-16 11:58" title="Mon 16 Sep 11:58:51 AM">Sep 16</time>
+<a class="result-title hdrlnk" data-id="6977067028" href="https://newyork.craigslist.org/que/mob/d/corona-iphone-s-5-semacbook-pro-air/6977067028.html">IPHONE X/8/7/6/6s/5/SE.MacBook Pro/Air/IPAD / MINI 4/Air. Empty Boxes.</a>
+<span class="result-meta">
+<span class="result-price">$4</span>
+<span class="result-hood"> (Elmhurst-Queens)</span>
+<span class="result-tags">
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6975819322">
+<a class="result-image gallery" data-ids="1:00T0T_a5cwZStj2yc,1:00x0x_4GJs8ahBrH7,1:00707_iRAllEesGG9,1:01515_drmO46gBu8Q,1:00L0L_4mRBUVVOSkp" href="https://newyork.craigslist.org/mnh/sys/d/new-york-apple-macbook-air-13-i5-8gb/6975819322.html">
+<span class="result-price">$475</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-16 11:11" title="Mon 16 Sep 11:11:31 AM">Sep 16</time>
+<a class="result-title hdrlnk" data-id="6975819322" href="https://newyork.craigslist.org/mnh/sys/d/new-york-apple-macbook-air-13-i5-8gb/6975819322.html">Apple Macbook Air 13" i5 8GB 256GB</a>
+<span class="result-meta">
+<span class="result-price">$475</span>
+<span class="result-hood"> (Midtown)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6962870680" data-repost-of="5681461691">
+<a class="result-image gallery" data-ids="1:01717_giP5us4gtUb,1:00e0e_laWDhPP0Sol,1:00B0B_13M768rk1EF,1:01717_lVchVHql7xX" href="https://newyork.craigslist.org/que/sys/d/rego-park-for-sale-macbook-air/6962870680.html">
+<span class="result-price">$375</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-16 09:48" title="Mon 16 Sep 09:48:16 AM">Sep 16</time>
+<a class="result-title hdrlnk" data-id="6962870680" href="https://newyork.craigslist.org/que/sys/d/rego-park-for-sale-macbook-air/6962870680.html">For sale MacBook Air</a>
+<span class="result-meta">
+<span class="result-price">$375</span>
+<span class="result-hood"> (Rego Park)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6979681020">
+<a class="result-image gallery" data-ids="1:01313_5QPx06Wnlua,1:00o0o_1MIzxcw69El,1:00606_cbXSeUCkWI3,1:00x0x_it5SwQmgBNE,1:00D0D_gMWtTDKOleG,1:00P0P_jVNa2LJvEcf,1:00X0X_15cKfnrGX3l,1:00t0t_dGUhjT4LBMb,1:00V0V_7L1rbIGYPbf,1:00x0x_26rpTXTIyvB,1:01414_wcHzBo9yhp" href="https://newyork.craigslist.org/mnh/sys/d/new-york-macbook-air-gb-18ghz-2017/6979681020.html">
+<span class="result-price">$770</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-16 09:23" title="Mon 16 Sep 09:23:05 AM">Sep 16</time>
+<a class="result-title hdrlnk" data-id="6979681020" href="https://newyork.craigslist.org/mnh/sys/d/new-york-macbook-air-gb-18ghz-2017/6979681020.html">MacBook Air 13" 128GB 1.8ghz 2017 AppleCare warranty! Woohoo!</a>
+<span class="result-meta">
+<span class="result-price">$770</span>
+<span class="result-hood"> (Chelsea)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6979669569" data-repost-of="6887109573">
+<a class="result-image gallery" data-ids="1:00e0e_eNggmro7dbt,1:00202_1A1MC5hK1hc,1:00d0d_bN06LUbKV93,1:00u0u_38TFxq9MOZu,1:00I0I_aJvEQvSQ4j" href="https://newyork.craigslist.org/brk/sys/d/brooklyn-macbook-air/6979669569.html">
+<span class="result-price">$725</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-16 08:52" title="Mon 16 Sep 08:52:28 AM">Sep 16</time>
+<a class="result-title hdrlnk" data-id="6979669569" href="https://newyork.craigslist.org/brk/sys/d/brooklyn-macbook-air/6979669569.html">Macbook Air</a>
+<span class="result-meta">
+<span class="result-price">$725</span>
+<span class="result-hood"> (Bedford Stuyvesant)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6967258478">
+<a class="result-image gallery" data-ids="1:00Z0Z_25imd4NCi7w,1:00505_kNrcm0FEYfo,1:00c0c_bg9f9oMdI5f,1:00v0v_afZW37q4pvF,1:00O0O_3GOKctWYJwA,1:00D0D_fZi1HL8T16B,1:00B0B_hVKVAeRP53Y,1:00i0i_3VG37KCu1uU" href="https://newyork.craigslist.org/que/sys/d/flushing-macbook-air-13-inch-256gb-4gb/6967258478.html">
+<span class="result-price">$580</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-16 02:26" title="Mon 16 Sep 02:26:54 AM">Sep 16</time>
+<a class="result-title hdrlnk" data-id="6967258478" href="https://newyork.craigslist.org/que/sys/d/flushing-macbook-air-13-inch-256gb-4gb/6967258478.html">MacBook Air 13-inch - 256GB 4GB Ram OSX Mojave</a>
+<span class="result-meta">
+<span class="result-price">$580</span>
+<span class="result-hood"> (Flushing)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6975924938">
+<a class="result-image gallery" data-ids="1:00z0z_f9YILKz5os2,1:00Q0Q_baQY5kHJWbJ,1:00505_1wjM76S5PWu,1:01717_82GGePrcjyb,1:00e0e_lSRhGqmJ2P8,1:00x0x_6wsLg0YmL4m,1:00707_jY2vdTMIXI4,1:01616_7s4L3c6g4Ao,1:00a0a_2bUx9BI1Oaq,1:00m0m_4W4RAygBBdk,1:00Q0Q_j5D6s6e9qZ5,1:00P0P_cHQPi9Q2Kd7,1:00u0u_fiUX5mGEeMi" href="https://newyork.craigslist.org/fct/sys/d/bayville-macbook-air-2013-mint-ssd/6975924938.html">
+<span class="result-price">$550</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-15 23:27" title="Sun 15 Sep 11:27:18 PM">Sep 15</time>
+<a class="result-title hdrlnk" data-id="6975924938" href="https://newyork.craigslist.org/fct/sys/d/bayville-macbook-air-2013-mint-ssd/6975924938.html">Macbook air 2013 mint SSD 512gb 8RAM</a>
+<span class="result-meta">
+<span class="result-price">$550</span>
+<span class="result-hood"> (New Cannan)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6977036453" data-repost-of="6946654302">
+<a class="result-image gallery" data-ids="1:00v0v_6FjkODdghMj,1:00W0W_kBPW4Albvjs,1:00i0i_7Eztb4dV6Tc,1:00909_e5hbzDhq00g,1:00E0E_6T1I6cvbqXb" href="https://newyork.craigslist.org/lgi/sys/d/great-neck-apple-macbook-air-13-mid/6977036453.html">
+<span class="result-price">$300</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-15 22:23" title="Sun 15 Sep 10:23:43 PM">Sep 15</time>
+<a class="result-title hdrlnk" data-id="6977036453" href="https://newyork.craigslist.org/lgi/sys/d/great-neck-apple-macbook-air-13-mid/6977036453.html">Apple MacBook Air 13" (Mid 2013)- Core i5 1.3GHz, 4GB RAM, 128GB SSD</a>
+<span class="result-meta">
+<span class="result-price">$300</span>
+<span class="result-hood"> (Great Neck)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6978052902" data-repost-of="6946654302">
+<a class="result-image gallery" data-ids="1:00v0v_6FjkODdghMj,1:00W0W_kBPW4Albvjs,1:00i0i_7Eztb4dV6Tc,1:00909_e5hbzDhq00g,1:00E0E_6T1I6cvbqXb" href="https://newyork.craigslist.org/lgi/sys/d/great-neck-apple-macbook-air-13-mid/6978052902.html">
+<span class="result-price">$300</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-15 22:23" title="Sun 15 Sep 10:23:45 PM">Sep 15</time>
+<a class="result-title hdrlnk" data-id="6978052902" href="https://newyork.craigslist.org/lgi/sys/d/great-neck-apple-macbook-air-13-mid/6978052902.html">Apple MacBook Air 13" (Mid 2013)- Core i5 1.3GHz, 4GB RAM, 128GB SSD</a>
+<span class="result-meta">
+<span class="result-price">$300</span>
+<span class="result-hood"> (Great Neck)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6979540430" data-repost-of="4998179434">
+<a class="result-image gallery" data-ids="0:00Y0Y_cEWg7X0wE3p" href="https://newyork.craigslist.org/mnh/sop/d/new-york-city-60w-magsafe-charger-for/6979540430.html">
+<span class="result-price">$35</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-15 22:05" title="Sun 15 Sep 10:05:49 PM">Sep 15</time>
+<a class="result-title hdrlnk" data-id="6979540430" href="https://newyork.craigslist.org/mnh/sop/d/new-york-city-60w-magsafe-charger-for/6979540430.html">60w magsafe charger for macbook pro &amp; air</a>
+<span class="result-meta">
+<span class="result-price">$35</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6979521283">
+<a class="result-image gallery" data-ids="1:00M0M_7SDxIKWhYKc,1:00Z0Z_ke7wweSzw9D" href="https://newyork.craigslist.org/wch/sys/d/wilton-brand-new-13-macbook-air-each-ms/6979521283.html">
+<span class="result-price">$650</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-15 21:46" title="Sun 15 Sep 09:46:51 PM">Sep 15</time>
+<a class="result-title hdrlnk" data-id="6979521283" href="https://newyork.craigslist.org/wch/sys/d/wilton-brand-new-13-macbook-air-each-ms/6979521283.html">Brand New 13" MacBook Air (2017, $650 each), MS Office 2019</a>
+<span class="result-meta">
+<span class="result-price">$650</span>
+<span class="result-hood"> (Norwalk/Wilton CT)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6979520659">
+<a class="result-image gallery" data-ids="1:00M0M_7SDxIKWhYKc" href="https://newyork.craigslist.org/brk/sys/d/wilton-brand-new-13-macbook-air-each-ms/6979520659.html">
+<span class="result-price">$650</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-15 21:44" title="Sun 15 Sep 09:44:31 PM">Sep 15</time>
+<a class="result-title hdrlnk" data-id="6979520659" href="https://newyork.craigslist.org/brk/sys/d/wilton-brand-new-13-macbook-air-each-ms/6979520659.html">Brand New 13" MacBook Air (2017, $650 each), MS Office 2019</a>
+<span class="result-meta">
+<span class="result-price">$650</span>
+<span class="result-hood"> (Wilton CT)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6979497882">
+<a class="result-image gallery" data-ids="1:00C0C_2ZFHkULWAd8,1:00B0B_1TWeKyLjUVd,1:00n0n_alsSGE2SCGd,1:01313_2e746nNwFWf,1:00y0y_iWLVtEc2MHu,1:00k0k_7umuidOkDBs,1:00r0r_f8Arb71AVia,1:01212_8IkSNmeGtuS,1:01212_95OxZNmyl7o,1:00X0X_jprFlNebUxh,1:01313_bqXF9EbIYBz" href="https://newyork.craigslist.org/mnh/ele/d/new-york-macbook-air-a1369/6979497882.html">
+<span class="result-price">$230</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-15 20:53" title="Sun 15 Sep 08:53:18 PM">Sep 15</time>
+<a class="result-title hdrlnk" data-id="6979497882" href="https://newyork.craigslist.org/mnh/ele/d/new-york-macbook-air-a1369/6979497882.html">Macbook Air  A1369</a>
+<span class="result-meta">
+<span class="result-price">$230</span>
+<span class="result-hood"> (Harlem / Morningside)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6979454740">
+<a class="result-image gallery" data-ids="1:00b0b_aj3JVLodBhj,1:00Q0Q_6vUvxYXuI87,1:00M0M_lGvUvEKD1Ch" href="https://newyork.craigslist.org/fct/sys/d/stamford-macbook-air/6979454740.html">
+<span class="result-price">$499</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-15 19:10" title="Sun 15 Sep 07:10:07 PM">Sep 15</time>
+<a class="result-title hdrlnk" data-id="6979454740" href="https://newyork.craigslist.org/fct/sys/d/stamford-macbook-air/6979454740.html">MacBook Air</a>
+<span class="result-meta">
+<span class="result-price">$499</span>
+<span class="result-hood"> (Stamford)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6958619689" data-repost-of="6933073192">
+<a class="result-image gallery" data-ids="1:01414_ifq368LrJe6,1:00000_fgadpzYp2ie,1:00y0y_e0YNqewJIwo,1:00101_fC29UoDZPPT,1:00Y0Y_jbJc6FimPc6" href="https://newyork.craigslist.org/brk/sys/d/brooklyn-2015-macbook-air-13/6958619689.html">
+<span class="result-price">$370</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-15 18:37" title="Sun 15 Sep 06:37:57 PM">Sep 15</time>
+<a class="result-title hdrlnk" data-id="6958619689" href="https://newyork.craigslist.org/brk/sys/d/brooklyn-2015-macbook-air-13/6958619689.html">2015 Macbook Air 13"</a>
+<span class="result-meta">
+<span class="result-price">$370</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6979420800" data-repost-of="6939327078">
+<a class="result-image gallery" data-ids="1:00K0K_aaC6ItZVw1P,1:00000_hLHGMPGzcdk,1:00e0e_fBq81FN8NfK" href="https://newyork.craigslist.org/mnh/sys/d/new-york-city-macbook-air-ghz-i/6979420800.html">
+<span class="result-price">$375</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-15 18:35" title="Sun 15 Sep 06:35:46 PM">Sep 15</time>
+<a class="result-title hdrlnk" data-id="6979420800" href="https://newyork.craigslist.org/mnh/sys/d/new-york-city-macbook-air-ghz-i/6979420800.html">Macbook Air 2012 13" 2GHz i7 8/256</a>
+<span class="result-meta">
+<span class="result-price">$375</span>
+<span class="result-hood"> (Midtown East)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6959573029" data-repost-of="6232378132">
+<a class="result-image gallery" data-ids="1:00F0F_ehmGM4Em32V,1:00Y0Y_kA3Nrv5pLe7,1:00v0v_1mTiOZZRvWu,1:00c0c_icdfrcT6Pmc" href="https://newyork.craigslist.org/mnh/sys/d/apple-macbook-air-13-16ghz-core-i5/6959573029.html">
+<span class="result-price">$700</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-15 18:21" title="Sun 15 Sep 06:21:17 PM">Sep 15</time>
+<a class="result-title hdrlnk" data-id="6959573029" href="https://newyork.craigslist.org/mnh/sys/d/apple-macbook-air-13-16ghz-core-i5/6959573029.html">Apple MacBook Air 13" 1.6GHz Core i5 256GB A1466 mint</a>
+<span class="result-meta">
+<span class="result-price">$700</span>
+<span class="result-hood"> (West Village)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6959528844" data-repost-of="6773863358">
+<a class="result-image gallery" data-ids="1:00H0H_aB6Ot1X5j1R,1:00n0n_aXJZdEBMoVj,1:00707_h37cA4TAmM7,1:00G0G_j1F8mmy6TKx" href="https://newyork.craigslist.org/mnh/sys/d/new-york-city-apple-macbook-air-13/6959528844.html">
+<span class="result-price">$950</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-15 18:20" title="Sun 15 Sep 06:20:26 PM">Sep 15</time>
+<a class="result-title hdrlnk" data-id="6959528844" href="https://newyork.craigslist.org/mnh/sys/d/new-york-city-apple-macbook-air-13/6959528844.html">Apple MacBook Air 13 2.2Ghz i7 512GB SSD storage - new condition</a>
+<span class="result-meta">
+<span class="result-price">$950</span>
+<span class="result-hood"> (West Village)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6959532242" data-repost-of="6446219727">
+<a class="result-image gallery" data-ids="1:01414_dZ1BXTtA4U8,1:00S0S_iJLZIo3yAeV,1:00w0w_abujnogwHI,1:01515_7WiUCqVtskf,1:01010_8Q8YWQuSizv,1:00m0m_hiNqK3qP77u" href="https://newyork.craigslist.org/mnh/sys/d/new-york-city-macbook-air-13-inch/6959532242.html">
+<span class="result-price">$600</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-15 18:20" title="Sun 15 Sep 06:20:40 PM">Sep 15</time>
+<a class="result-title hdrlnk" data-id="6959532242" href="https://newyork.craigslist.org/mnh/sys/d/new-york-city-macbook-air-13-inch/6959532242.html">MacBook Air 13 inch laptop i5 Intel Processor and 128GB Flash Drive</a>
+<span class="result-meta">
+<span class="result-price">$600</span>
+<span class="result-hood"> (West Village)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6979372352" data-repost-of="6972088260">
+<a class="result-image gallery" data-ids="1:00m0m_gqwdm29kS6i" href="https://newyork.craigslist.org/brk/sys/d/brooklyn-macbook-air-i5-16gb-256gb-ssd/6979372352.html">
+<span class="result-price">$800</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-15 17:08" title="Sun 15 Sep 05:08:43 PM">Sep 15</time>
+<a class="result-title hdrlnk" data-id="6979372352" href="https://newyork.craigslist.org/brk/sys/d/brooklyn-macbook-air-i5-16gb-256gb-ssd/6979372352.html">Macbook Air 13 2018 1.6 i5 16gb 256Gb SSD Retina</a>
+<span class="result-meta">
+<span class="result-price">$800</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6977523342" data-repost-of="4998179434">
+<a class="result-image gallery" data-ids="0:00Y0Y_cEWg7X0wE3p" href="https://newyork.craigslist.org/mnh/sop/d/new-york-city-60w-magsafe-charger-for/6977523342.html">
+<span class="result-price">$35</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-15 16:17" title="Sun 15 Sep 04:17:14 PM">Sep 15</time>
+<a class="result-title hdrlnk" data-id="6977523342" href="https://newyork.craigslist.org/mnh/sop/d/new-york-city-60w-magsafe-charger-for/6977523342.html">60w magsafe charger for macbook pro &amp; air</a>
+<span class="result-meta">
+<span class="result-price">$35</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6962670158" data-repost-of="4821659778">
+<a class="result-image gallery" data-ids="1:00m0m_5Xk6omn4BlT" href="https://newyork.craigslist.org/mnh/ele/d/new-york-city-magsafe-2-macbook-charger/6962670158.html">
+<span class="result-price">$40</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-15 16:16" title="Sun 15 Sep 04:16:45 PM">Sep 15</time>
+<a class="result-title hdrlnk" data-id="6962670158" href="https://newyork.craigslist.org/mnh/ele/d/new-york-city-magsafe-2-macbook-charger/6962670158.html">MagSafe 2 MacBook Charger for MacBook Pro, and MacBook Air Brand New</a>
+<span class="result-meta">
+<span class="result-price">$40</span>
+<span class="result-hood"> (Midtown East)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6964929280" data-repost-of="4998179434">
+<a class="result-image gallery" data-ids="0:00Y0Y_cEWg7X0wE3p" href="https://newyork.craigslist.org/mnh/sop/d/new-york-city-60w-magsafe-charger-for/6964929280.html">
+<span class="result-price">$35</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-15 16:16" title="Sun 15 Sep 04:16:42 PM">Sep 15</time>
+<a class="result-title hdrlnk" data-id="6964929280" href="https://newyork.craigslist.org/mnh/sop/d/new-york-city-60w-magsafe-charger-for/6964929280.html">60w magsafe charger for macbook pro &amp; air</a>
+<span class="result-meta">
+<span class="result-price">$35</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6972599285" data-repost-of="4998179434">
+<a class="result-image gallery" data-ids="0:00Y0Y_cEWg7X0wE3p" href="https://newyork.craigslist.org/mnh/sop/d/new-york-city-60w-magsafe-charger-for/6972599285.html">
+<span class="result-price">$35</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-15 16:16" title="Sun 15 Sep 04:16:38 PM">Sep 15</time>
+<a class="result-title hdrlnk" data-id="6972599285" href="https://newyork.craigslist.org/mnh/sop/d/new-york-city-60w-magsafe-charger-for/6972599285.html">60w magsafe charger for macbook pro &amp; air</a>
+<span class="result-meta">
+<span class="result-price">$35</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6975497438" data-repost-of="4998179434">
+<a class="result-image gallery" data-ids="0:00Y0Y_cEWg7X0wE3p" href="https://newyork.craigslist.org/mnh/sop/d/new-york-city-60w-magsafe-charger-for/6975497438.html">
+<span class="result-price">$35</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-15 16:16" title="Sun 15 Sep 04:16:48 PM">Sep 15</time>
+<a class="result-title hdrlnk" data-id="6975497438" href="https://newyork.craigslist.org/mnh/sop/d/new-york-city-60w-magsafe-charger-for/6975497438.html">60w magsafe charger for macbook pro &amp; air</a>
+<span class="result-meta">
+<span class="result-price">$35</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6977523468" data-repost-of="4821659778">
+<a class="result-image gallery" data-ids="1:00m0m_5Xk6omn4BlT" href="https://newyork.craigslist.org/mnh/ele/d/new-york-city-magsafe-2-macbook-charger/6977523468.html">
+<span class="result-price">$40</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-15 16:16" title="Sun 15 Sep 04:16:31 PM">Sep 15</time>
+<a class="result-title hdrlnk" data-id="6977523468" href="https://newyork.craigslist.org/mnh/ele/d/new-york-city-magsafe-2-macbook-charger/6977523468.html">MagSafe 2 MacBook Charger for MacBook Pro, and MacBook Air Brand New</a>
+<span class="result-meta">
+<span class="result-price">$40</span>
+<span class="result-hood"> (Midtown East)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6977523524" data-repost-of="4998179434">
+<a class="result-image gallery" data-ids="0:00Y0Y_cEWg7X0wE3p" href="https://newyork.craigslist.org/mnh/sop/d/new-york-city-60w-magsafe-charger-for/6977523524.html">
+<span class="result-price">$35</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-15 16:16" title="Sun 15 Sep 04:16:51 PM">Sep 15</time>
+<a class="result-title hdrlnk" data-id="6977523524" href="https://newyork.craigslist.org/mnh/sop/d/new-york-city-60w-magsafe-charger-for/6977523524.html">60w magsafe charger for macbook pro &amp; air</a>
+<span class="result-meta">
+<span class="result-price">$35</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+<li class="result-row" data-pid="6971911499" data-repost-of="6947644758">
+<a class="result-image gallery" data-ids="1:00o0o_kGEOJmLXTiq,1:00o0o_kGEOJmLXTiq,1:00I0I_3GToEDPvFLW,1:00c0c_kixhp4h3h6y,1:00707_cQHYRbXdfwj" href="https://newyork.craigslist.org/mnh/sys/d/new-york-city-macbook-air-13-i5-2015/6971911499.html">
+<span class="result-price">$400</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-09-15 14:09" title="Sun 15 Sep 02:09:42 PM">Sep 15</time>
+<a class="result-title hdrlnk" data-id="6971911499" href="https://newyork.craigslist.org/mnh/sys/d/new-york-city-macbook-air-13-i5-2015/6971911499.html">MacBook Air 13” i5 2015</a>
+<span class="result-meta">
+<span class="result-price">$400</span>
+<span class="result-hood"> (Midtown East)</span>
+<span class="result-tags">
+<span class="pictag">pic</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+
+</ul>
+</div>
+<div class="search-legend bottom">
+<div class="search-view">
+<span class="buttongroup"><a class="backtotop button" href="#page-top">^ back to top</a></span>
+</div>
+<div class="search-sort">
+<span class="buttongroup"><a class="backtotop button" href="#page-top">^ back to top</a></span>
+</div>
+<div class="paginator buttongroup firstpage">
+<span class="resulttotal">
+<span class="for-map">
+        displaying <span class="displaycountShow">...</span> postings
+        </span>
+</span>
+<span class="buttons">
+<a class="button first" href="/search/sss?query=macbook%20air&amp;sort=rel" title="first page">&lt;&lt;</a>
+<span class="button first" title="first page">&lt;&lt;</span>
+<a class="button prev" href="/search/sss?query=macbook%20air&amp;sort=rel" title="previous page">&lt; prev</a>
+<span class="button prev" title="previous page">&lt; prev</span>
+<span class="button pagenum">
+<span class="range">
+<span class="rangeFrom">1</span>
+                -
+                <span class="rangeTo">120</span>
+</span>
+            /
+            <span class="totalcount">671</span>
+</span>
+<a class="button next" href="/search/sss?s=120&amp;query=macbook%20air&amp;sort=rel" title="next page">next &gt; </a>
+<span class="button next" title="next page"> next &gt; </span>
+</span>
+</div>
+</div>
+<section class="blurbs">
+</section>
+<div id="floater">
+<img alt="" class="loading" src="//www.craigslist.org/images/animated-spinny.gif"/>
+<img alt="" class="payload" src="//www.craigslist.org/images/animated-spinny.gif"/>
+</div>
+</form>
+<aside class="tsb">
+<ul>
+<li><a href="https://www.craigslist.org/about/safety">safety tips</a>
+<li><a href="https://www.craigslist.org/about/prohibited">prohibited items</a>
+<li><a href="https://www.craigslist.org/about/recalled_items">product recalls</a>
+<li><a href="https://www.craigslist.org/about/scams">avoiding scams</a>
+</li></li></li></li></ul>
+</aside>
+<div class="slidemessage">
+<span class="fave">
+<span class="star"></span>
+        favorited
+    </span>
+<span class="unfave">
+<span class="star"></span>
+        no longer favorited
+    </span>
+<span class="hide">
+<span class="trash"></span>
+        hidden
+    </span>
+<span class="unhide">
+<span class="trash"></span>
+        no longer hidden
+    </span>
+</div>
+<footer>
+<span class="rss">
+<a class="l" href="https://newyork.craigslist.org/search/sss?format=rss&amp;query=macbook%20air&amp;sort=rel">RSS</a>
+<a href="https://www.craigslist.org/about/rss">(?)</a><br/>
+</span>
+<ul class="clfooter">
+<li>©  <span class="desktop">craigslist</span><span class="mobile">CL</span></li>
+<li><a href="https://www.craigslist.org/about/help/">help</a></li>
+<li><a href="https://www.craigslist.org/about/scams">safety</a></li>
+<li class="desktop"><a href="https://www.craigslist.org/about/privacy.policy">privacy</a></li>
+<li class="desktop"><a href="https://forums.craigslist.org/?forumID=8">feedback</a></li>
+<li class="desktop"><a href="https://www.craigslist.org/about/craigslist_is_hiring">cl jobs</a></li>
+<li><a href="//www.craigslist.org/about/terms.of.use.en-us">terms</a><sup class="neu">new</sup></li>
+<li><a href="https://www.craigslist.org/about/">about</a></li>
+<li class="fsel desktop linklike" data-mode="mobile">mobile</li>
+<li class="fsel mobile linklike" data-mode="regular">desktop</li>
+</ul>
+</footer>
+</section>
+<template id="gallerycarousel">
+<div class="slider-info"></div><div class="slider-back arrow">&lt;</div><div class="slider-forward arrow">&gt;</div>
+</template>
+<script src="//www.craigslist.org/js/general-concat.min.js?v=e3e3b2eaa3287fea87becfed97e0025a" type="text/javascript"></script>
+<script type="text/javascript"><!--
+        var iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        iframe.src = '//www.' + CL.url.baseDomain + '/static/localstorage.html?v=c681e870c9c4f8f545b36f0180f755cf';
+        document.body.insertBefore(iframe, null);
+    --></script>
+<script id="clustertemplate" type="text/template">
+    <li class="posting {visited}" data-pid="{PostingID}">
+        <img src="{ImageThumb}">
+        <div class="housing_bubble_banner">
+            <span class="{hasPrice}price">{currencySymbol}{Ask}</span>
+            <span class="bedrooms">{BedroomsContent}</span>
+            <span class="postingtitle"><a>{PostingTitle}</a></span>
+            <span class="js-only map-banish-unbanish" data-pid="{PostingID}">
+                <span class="banish">
+                    <span class="icon icon-trash" role="button"></span>
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+                <span class="unbanish">
+                    <span class="icon icon-trash red" role="button"></span>
+                    unhide
+                </span>
+            </span>
+        </div>
+    </li>
+</script>
+<script id="postingtemplate" type="text/template">
+    <div class="viewcontainer pics loading">
+        <div class="backtolist">
+            &laquo; back to posting list
+        </div>
+        <div class="title">
+            <span class="icon icon-star" data-pid="{PostingID}" role="button">
+                <span class="screen-reader-text">favorite this post</span>
+            </span>
+            <span class="postingtitle">
+                <a href="{PostingURL}" target="_blank">{PostingTitle}</a>
+            </span>
+            <div>
+                <span class="{hasPrice}price">{currencySymbol}{Ask}</span>
+                <span class="bedrooms">{BedroomsContent}</span>
+                <span class="js-only map-banish-unbanish" data-pid="{PostingID}">
+                    <span class="banish">
+                        <span class="icon icon-trash" role="button"></span>
+                        <span class="screen-reader-text">hide this posting</span>
+                    </span>
+                    <span class="unbanish">
+                        <span class="icon icon-trash red" role="button"></span>
+                        <span class="screen-reader-text">unhide</span>
+                        unhide
+                    </span>
+                </span>
+            </div>
+        </div>
+        <hr style="clear:both">
+        <div class="picscontainer gallery">
+            <span class="slider-back arrow">&lt;</span><span class="slider-info"></span><span class="slider-forward arrow">&gt;</span>
+            <div class="swipe">
+                <div class="swipe-wrap">
+                    <img class="loading" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="infocontainer"></div>
+        <hr style="clear:both">
+        <div class="timecontainer"></div>
+        <a class="viewpostinglink" href="{PostingURL}" target="_blank">view posting</a>
+        <div class="contenttoggle">
+            <a class="moreinfo">more info</a>
+            <a class="showpics">show images</a>
+        </div>
+    </div>
+</script>
+<script id="popuptemplate" type="text/template">
+    <div id="mapbubble" class="posting">
+        <ul id="clusterbubble"></ul>
+        <div id="postbubble"></div>
+    </div>
+</script>
+<script src="//www.craigslist.org/js/leaflet-concat.min.js?v=a4b26f53b2fdb1a4509dadbf02706b2a" type="text/javascript"></script>
+<script src="//www.craigslist.org/js/search-concat.min.js?v=e3a0242ff886c1f0c65773bca8b36d66" type="text/javascript"></script>
+<script src="//www.craigslist.org/js/postings-concat.min.js?v=2e77044a84c350f378d73f8eeb6989bb" type="text/javascript"></script>
+</body>
+</html>
