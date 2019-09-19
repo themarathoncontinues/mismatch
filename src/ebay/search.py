@@ -1,9 +1,5 @@
 import argparse
-import json
 import logging
-import os
-import pickle
-import random
 import requests
 
 logging.basicConfig(level='INFO')
@@ -72,6 +68,15 @@ def _get_product_name(soup):
 
 
 def get_product_info(soup):
+    '''
+    Get singular product info.
+
+    :params:
+        soup (BeautifulSoup): Product soup.
+
+    :return:
+        product_list (list): Contains all products scraped from query.
+    '''
 
     product_info = {
         'name': _get_product_name(soup),
@@ -86,6 +91,15 @@ def get_product_info(soup):
 
 
 def get_products(soup):
+    '''
+    Returns all products in a result page.
+
+    :params:
+        soup (BeautifulSoup): Full soupified results page.
+
+    :return:
+        product_list (list): List of soupified products.
+    '''
 
     products = soup.find_all('div', {'class': 's-item__wrapper'})
 
@@ -93,6 +107,15 @@ def get_products(soup):
 
 
 def run(args_dict):
+    '''
+    Handler for eBay scraping.
+
+    :params:
+        args_dict (dict): Containing all query arguments for function.
+
+    :return:
+        product_list (list): Contains all products scraped from query.
+    '''
 
     query = args_dict['query']
     logger.info(f'RUNNING ON QUERY: {query}')
@@ -118,13 +141,13 @@ def run(args_dict):
     products = get_products(soup)
     logger.info(f'FOUND PRODUCTS: {len(products)}')
 
-    product_info = []
+    product_list = []
     for product in products:
         info = get_product_info(product)
-        product_info.append(info)
+        product_list.append(info)
         logger.info(f'ADDED PRODUCT: {info["name"]}')
 
-    return product_info
+    return product_list
 
 
 if __name__ == '__main__':
