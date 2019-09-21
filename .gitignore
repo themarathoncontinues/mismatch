@@ -9,11 +9,16 @@ __pycache__/
 
 # pytest
 .coverage
+cov_html/
 cov_html
 .pytest_cache
 
 # tox
 .tox
 
-# chrome
-chromedriver
+# cache
+.DS_Store
+
+# drivers
+gecko*
+chrome*
