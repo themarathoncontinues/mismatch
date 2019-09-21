@@ -9,6 +9,14 @@ __pycache__/
 
 # pytest
 .coverage
+cov_html/
 
 # tox
 .tox
+
+# cache
+.DS_Store
+
+# drivers
+gecko*
+chrome*
