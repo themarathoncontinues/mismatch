@@ -12,7 +12,8 @@ from src.constants import (
     EBAY_BASE,
     EBAY_BASE_SEARCH,
     EBAY_COMPLETE_FILTER,
-    EBAY_US_ONLY_FILTER
+    EBAY_US_ONLY_FILTER,
+    EBAY_PAGE_NUMBER
 )
 
 
@@ -22,6 +23,8 @@ def _get_product_price(soup):
     price = price_soup.text if price_soup else 'ERROR'
 
     if price.startswith('$'):
+        if ',' in price:
+            price = price.replace(',', '')
         if 'to' in price:
             price_raw = price.split('to')
             price_clean = [price.replace('$', '') for price in price_raw]
@@ -85,8 +88,6 @@ def get_product_info(soup):
         'shipping': _get_product_shipping(soup)
     }
 
-    print(product_info)
-
     return product_info
 
 
@@ -104,6 +105,26 @@ def get_products(soup):
     products = soup.find_all('div', {'class': 's-item__wrapper'})
 
     return products
+
+
+def build_products(url):
+
+    logger.info(f'BUILD EBAY URL: {url}')
+    resp = requests.get(url)
+    logger.info(f'EBAY REQUEST STATUS: {resp.status_code}')
+
+    soup = BeautifulSoup(resp.content, 'html.parser')
+
+    products = get_products(soup)
+    logger.info(f'FOUND PRODUCTS: {len(products)}')
+
+    product_list = []
+    for product in products:
+        info = get_product_info(product)
+        product_list.append(info)
+        logger.info(f'ADDED PRODUCT: {info["name"]}')
+
+    return product_list
 
 
 def run(args_dict):
@@ -132,20 +153,14 @@ def run(args_dict):
         # here is where other search filters would come in
         pass
 
-    logger.info(f'BUILD EBAY URL: {url}')
-    resp = requests.get(url)
-    logger.info(f'EBAY REQUEST STATUS: {resp.status_code}')
+    product_list = build_products(url)
 
-    soup = BeautifulSoup(resp.content, 'html.parser')
+    if args_dict['n'] > 1:
 
-    products = get_products(soup)
-    logger.info(f'FOUND PRODUCTS: {len(products)}')
+        urls = [f'{url}{EBAY_PAGE_NUMBER.format(x+1)}' for x in range(1, args_dict['n'])]
 
-    product_list = []
-    for product in products:
-        info = get_product_info(product)
-        product_list.append(info)
-        logger.info(f'ADDED PRODUCT: {info["name"]}')
+        for url in urls:
+            product_list.append(build_products(url))
 
     return product_list
 
@@ -164,6 +179,12 @@ if __name__ == '__main__':
         '--sold',
         action='store_true'
     )
+    parser.add_argument(
+        '-n',
+        required=False,
+        type=int,
+        default=1,
+        help='Number of eBay pages to search.')
 
     args_dict = vars(parser.parse_args())
 
