@@ -10,6 +10,8 @@ __pycache__/
 # pytest
 .coverage
 cov_html/
+cov_html
+.pytest_cache
 
 # tox
 .tox
