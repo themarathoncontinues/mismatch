@@ -1,6 +1,15 @@
 import os
 
 ##############
+# ALIEXPRESS #
+##############
+
+ALI_BASE = 'aliexpress.com/wholesale?catId=0&initiative_id=SB_'
+ALI_BASE_SEARCH = '&SearchText='
+ALI_BASE_TAIL = '&switch_new_app=y'
+
+
+##############
 # CRAIGSLIST #
 ##############
 
