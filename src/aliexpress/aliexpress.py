@@ -1,4 +1,5 @@
 import argparse
+import ast
 import bs4
 import datetime
 import json
@@ -12,6 +13,8 @@ from src.constants import (
     ALI_BASE_SEARCH,
     ALI_BASE_TAIL
 )
+
+from src.utils.json_util import get_nested
 
 logging.basicConfig(level='INFO')
 logger = logging.getLogger(__name__)
@@ -69,12 +72,46 @@ def find_items_element(soup_html):
 
 
 def parse_javascript(string_js):
+    """
+    Hacky parser for javascript unique to aliexpress soup
+    :param string_js:
+    :return:
+    """
     # Need to write a parser for these javascript components
-    partitions = []
-    first, *parts = string_js.split(';')
+    head, *parts = string_js.split(';')
 
-    print(first)
+    for part in parts:
+        if 'window.runParams = ' in part:
+            target = part.replace('window.runParams = ', '')
+            items_string = target.split('"items"', 1)[1]
+            stitch_strings = '{'+'"items"'+items_string
 
+            items_dict = json.loads(stitch_strings)
+
+            return items_dict
+
+
+def extract_metadata(ali_items):
+    """
+    Parse items on aliexpress for metadata
+    :param ali_items:
+    :return:
+    """
+    all_items = []
+    items = ali_items.get('items')
+
+    current = {}
+    for item in items:
+        current['productId'] = get_nested(item, 'productId')
+        current['productName'] = get_nested(item, 'title')
+        current['salePrice'] = get_nested(item, 'price')
+        current['listingUrl'] = get_nested(item, 'productDetailUrl')
+
+        print(json.dumps(current, indent=4))
+        all_items.append(current)
+
+
+    return all_items
 
 
 def run(args_dict):
@@ -96,6 +133,11 @@ def run(args_dict):
         logger.info(f'No items found for {product.upper()}')
     else:
         rule_based = parse_javascript(items_string)
+        out_items = extract_metadata(rule_based)
+
+        logger.info(f'{len(out_items)} listings for {product.upper()} found.')
+
+        return out_items
 
 
 if __name__ == '__main__': # pragma: no cover
