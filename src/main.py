@@ -58,7 +58,7 @@ def run_all(args_dict): # pragma: no cover
     dba.session.add_all(craigslist_records)
     dba.session.commit()
 
-    return data
+    return str(data.__repr__())
 
 
 if __name__ == '__main__': # pragma: no cover
