@@ -39,7 +39,7 @@ def test_get_product_info():
 
 
     assert isinstance(result, dict)
-    assert {'name', 'status', 'price', 'shipping', 'url'} == set(result.keys())
+    assert {'productName', 'status', 'salePrice', 'shipping', 'listingUrl'} == set(result.keys())
 
 
 def test_get_product_name():
