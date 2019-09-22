@@ -1,7 +1,7 @@
 import argparse
 import logging
 
-import utils.sql_actions as dba
+import src.utils.sql_actions as dba
 
 from src.aliexpress import aliexpress
 from src.craigslist import craigslist
@@ -32,9 +32,27 @@ def run_all(args_dict): # pragma: no cover
             name=d['productName'],
             url=d['listingUrl'],
             price=d['salePrice'],
-            website_id=2,
-        ) for d in data.ebay[0] if not isinstance(d['salePrice'], list)]
+            website_id=1,
+        ) for d in data.ebay[0] if not isinstance(d['salePrice'], tuple)]
     dba.session.add_all(ebay_records)
+    dba.session.commit()
+
+    aliexpress_records = [dba.SearchResult(
+            name=d['productName'],
+            url=d['listingUrl'],
+            price=d['salePrice'],
+            website_id=3,
+        ) for d in data.aliexpress if not isinstance(d['salePrice'], tuple)]
+    dba.session.add_all(aliexpress_records)
+    dba.session.commit()
+
+    craigslist_records = [dba.SearchResult(
+            name=d['productName'],
+            url=d['listingUrl'],
+            price=d['salePrice'],
+            website_id=2,
+        ) for d in data.craigslist if not isinstance(d['salePrice'], tuple)]
+    dba.session.add_all(craigslist_records)
     dba.session.commit()
 
     return data
