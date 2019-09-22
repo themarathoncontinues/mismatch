@@ -196,7 +196,8 @@ if __name__ == '__main__':
     )
     parser.add_argument(
         '--sold',
-        action='store_true'
+        action='store_true',
+        help='Pass this flag to search for *sold* items.'
     )
     parser.add_argument(
         '-n',
