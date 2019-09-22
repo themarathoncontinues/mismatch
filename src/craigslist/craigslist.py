@@ -73,7 +73,7 @@ def run(args_dict):
     :return:
     """
     metroarea = args_dict['metroarea']
-    product = args_dict['product']
+    product = args_dict['query']
     fout = construct_url(metroarea, product)
 
     # Get URL constructed
@@ -96,7 +96,7 @@ if __name__ == '__main__': # pragma: no cover
         help='Metropolitan area to search caigslist.org for'
     )
     parser.add_argument(
-        '-p', '--product',
+        '-q', '--query',
         required=True,
         type=str,
         help='Product to find prices for'
