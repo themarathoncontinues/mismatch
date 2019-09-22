@@ -95,11 +95,11 @@ def get_product_info(soup):
     '''
 
     product_info = {
-        'name': _get_product_name(soup),
+        'productName': _get_product_name(soup),
         'status': _get_product_status(soup),
-        'price': _get_product_price(soup),
+        'salePrice': _get_product_price(soup),
         'shipping': _get_product_shipping(soup),
-        'url': _get_product_url(soup),
+        'listingUrl': _get_product_url(soup),
     }
 
     return product_info
@@ -136,7 +136,7 @@ def build_products_page(url):
     for product in products:
         info = get_product_info(product)
         product_list.append(info)
-        logger.info(f'ADDED PRODUCT: {info["name"]}, {info["price"]}')
+        logger.info(f'ADDED PRODUCT: {info["productName"]}, {info["salePrice"]}')
 
     return product_list
 
@@ -181,7 +181,6 @@ def run(args_dict): # pragma: no cover
             tmp_list = build_products_page(url)
             product_list.append(tmp_list)
 
-    print(product_list)
     return product_list
 
 

@@ -1,5 +1,4 @@
 import argparse
-import ast
 import bs4
 import datetime
 import json
@@ -102,7 +101,6 @@ def extract_metadata(ali_items):
 
     current = {}
     for item in items:
-        current['productId'] = get_nested(item, 'productId')
         current['productName'] = get_nested(item, 'title')
         current['salePrice'] = _parse_prices(item)
         current['listingUrl'] = get_nested(item, 'productDetailUrl')
@@ -131,14 +129,13 @@ def _parse_prices(item):
     return price
 
 
-
 def run(args_dict):
     """
     Pseudo handler for aliexpress scraping from given args
     :param args_dict:
     :return:
     """
-    product = args_dict['product']
+    product = args_dict['query']
     fout = construct_url(product)
 
     # Get URL constructed
@@ -163,7 +160,7 @@ if __name__ == '__main__': # pragma: no cover
         description='Find prices for product based on metropolitan area'
     )
     parser.add_argument(
-        '-p', '--product',
+        '-q', '--query',
         required=True,
         type=str,
         help='Product to find prices for'
@@ -171,7 +168,7 @@ if __name__ == '__main__': # pragma: no cover
 
     args_dict = vars(parser.parse_args())
 
-    if args_dict['product'] is None:
+    if args_dict['query'] is None:
         logger.error(' Please enter a product for search')
 
     run(args_dict)
