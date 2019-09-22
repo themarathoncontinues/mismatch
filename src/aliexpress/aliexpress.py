@@ -14,11 +14,15 @@ from src.constants import (
 )
 
 from src.utils.json_util import get_nested
+from src.utils.url_util import (
+    partition_product,
+    shorten
+)
+
 
 logging.basicConfig(level='INFO')
 logger = logging.getLogger(__name__)
 
-from src.utils.url_util import cl_product
 
 
 def construct_url(product):
@@ -29,7 +33,7 @@ def construct_url(product):
     :return:
     """
     current_date = datetime.datetime.now().strftime('%Y%M%d%H%M%S')
-    serialize_product = cl_product(product)
+    serialize_product = partition_product(product)
     out_url = f'https://{ALI_BASE}{current_date}{ALI_BASE_SEARCH}{serialize_product}&{ALI_BASE_TAIL}'
 
     return out_url
@@ -103,7 +107,7 @@ def extract_metadata(ali_items):
     for item in items:
         current['productName'] = get_nested(item, 'title')
         current['salePrice'] = _parse_prices(item)
-        current['listingUrl'] = get_nested(item, 'productDetailUrl')
+        current['listingUrl'] = shorten(get_nested(item, 'productDetailUrl'))
 
         print(json.dumps(current, indent=4))
         all_items.append(current)

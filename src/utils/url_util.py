@@ -2,7 +2,7 @@ import re
 import requests
 
 
-def cl_product(product_arg):
+def partition_product(product_arg):
     """
     Serialize input 'product' for craigslist.org search
     :param product_arg:
