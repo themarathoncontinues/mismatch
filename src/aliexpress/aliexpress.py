@@ -101,7 +101,6 @@ def extract_metadata(ali_items):
 
     current = {}
     for item in items:
-        print(item)
         current['productName'] = get_nested(item, 'title')
         current['salePrice'] = _parse_prices(item)
         current['listingUrl'] = get_nested(item, 'productDetailUrl')
