@@ -3,7 +3,7 @@ from src.utils.json_util import (
     set_nested
 )
 
-from src.utils.url_util import cl_product
+from src.utils.url_util import partition_product
 
 
 # json_util unit tests
@@ -43,6 +43,6 @@ def test_cl_product():
     in_arg = "MY UNIT TEST"
     expected_out = 'my+unit+test'
 
-    result = cl_product(in_arg)
+    result = partition_product(in_arg)
 
     assert result == expected_out
