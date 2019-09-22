@@ -14,10 +14,7 @@ from src.constants import (
     CL_BASE_TAIL
 )
 
-from src.utils.url_util import (
-    partition_product,
-    shorten
-)
+from src.utils.url_util import partition_product
 
 
 def construct_url(metro, product):
@@ -56,14 +53,15 @@ def parse_soup(soup_html, product_name):
     product_meta = []
     products = soup_html.find_all('li', 'result-row')
 
-    current = {}
     for product in products:
-        current['productName'] = product_name
-        current['listingUrl'] = shorten(product.find('a', href=True)['href'])
-        current['createdAt'] = product.find('time', 'result-date')['datetime']
-        current['salePrice'] = float((product.find('span', 'result-price').text).replace('$', ''))
+        current = {
+            'productName': product_name,
+            'listingUrl': product.find('a', href=True)['href'],
+            'createdAt': product.find('time', 'result-date')['datetime'],
+            'salePrice': float((product.find('span', 'result-price').text).replace('$', ''))
+        }
 
-        print(json.dumps(current, indent=4))
+        logger.info(f'ADDED PRODUCT: {current["listingUrl"]}, {current["salePrice"]}')
         product_meta.append(current)
 
     return product_meta
