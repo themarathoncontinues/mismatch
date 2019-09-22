@@ -1,7 +1,7 @@
 import argparse
 import logging
 
-import src.utils.sql_actions as dba
+import src.utils.sql_actions as dba # pragma: no cover
 
 from src.aliexpress import aliexpress
 from src.craigslist import craigslist

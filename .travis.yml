@@ -4,6 +4,6 @@ python:
 install:
     - pip install -r requirements.txt
     - export PYTHONPATH=$PWD
-script: pytest --cov-report term-missing --cov=src/ -vv tests/
+script: pytest --cov-report term-missing --cov=src/ -vv tests/ --ignore=src/main.py
 after_success:
     - codecov
