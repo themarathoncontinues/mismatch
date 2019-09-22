@@ -10,7 +10,8 @@ from src.ebay.search import (
     _get_product_name,
     _get_product_status,
     _get_product_shipping,
-    _get_product_price
+    _get_product_price,
+    _get_product_url
 )
 
 
@@ -89,14 +90,14 @@ def test_get_product_price():
 
     assert isinstance(result, float)
 
-def test_get_product_price():
+def test_get_product_url():
 
     fp = open('tests/testData/ebay_get_product_info.pkl', 'rb')
     tmp = pickle.load(fp)
     fp.close()
 
     soupified = BeautifulSoup(tmp, 'html.parser')
-    result = _get_product_price(soupified)
+    result = _get_product_url(soupified)
 
-    assert isinstance(result, float)
+    assert isinstance(result, str)
 
