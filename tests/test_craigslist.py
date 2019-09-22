@@ -1,6 +1,4 @@
 import codecs
-import mock
-import unittest
 
 from bs4 import BeautifulSoup
 

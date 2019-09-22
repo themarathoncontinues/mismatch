@@ -101,6 +101,7 @@ def extract_metadata(ali_items):
 
     current = {}
     for item in items:
+        print(item)
         current['productName'] = get_nested(item, 'title')
         current['salePrice'] = _parse_prices(item)
         current['listingUrl'] = get_nested(item, 'productDetailUrl')
@@ -129,7 +130,7 @@ def _parse_prices(item):
     return price
 
 
-def run(args_dict):
+def run(args_dict): # pragma: no cover
     """
     Pseudo handler for aliexpress scraping from given args
     :param args_dict:
