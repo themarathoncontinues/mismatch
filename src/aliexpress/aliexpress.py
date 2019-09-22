@@ -103,15 +103,15 @@ def extract_metadata(ali_items):
     all_items = []
     items = ali_items.get('items')
 
-    current = {}
     for item in items:
-        current['productName'] = get_nested(item, 'title')
-        current['salePrice'] = _parse_prices(item)
-        current['listingUrl'] = shorten(get_nested(item, 'productDetailUrl'))
+        current = {
+            'productName': get_nested(item, 'title'),
+            'salePrice': _parse_prices(item),
+            'listingUrl': get_nested(item, 'productDetailUrl')
+        }
 
-        print(json.dumps(current, indent=4))
+        logger.info(f'ADDED PRODUCT: {current["listingUrl"]}, {current["salePrice"]}')
         all_items.append(current)
-
 
     return all_items
 
