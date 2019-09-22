@@ -52,7 +52,7 @@ def _derive_currency(price):
         return 'USD'
 
 
-def run(args_dict):
+def run(args_dict): # pragma: no cover
     product = args_dict['url']
     soup = get_product_soup(product)
     metadata = extract_product_meta(soup)
@@ -60,7 +60,6 @@ def run(args_dict):
     logger.info(f'Data extracted for {metadata["productName"].upper()}')
 
     return metadata
-
 
 
 if __name__ == '__main__': # pragma: no cover
