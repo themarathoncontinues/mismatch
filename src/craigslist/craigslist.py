@@ -44,7 +44,7 @@ def get_soup(request_url):
     return soup
 
 
-def parse_soup(soup_html):
+def parse_soup(soup_html, product_name):
     """
     Create data structure of craiglist.org data from product request
     :param cl_soup:
@@ -55,9 +55,10 @@ def parse_soup(soup_html):
 
     current = {}
     for product in products:
+        current['productName'] = product_name
         current['listingUrl'] = product.find('a', href=True)['href']
         current['createdAt'] = product.find('time', 'result-date')['datetime']
-        current['salePrice'] = int((product.find('span', 'result-price').text).replace('$', ''))
+        current['salePrice'] = float((product.find('span', 'result-price').text).replace('$', ''))
 
         print(json.dumps(current, indent=4))
         product_meta.append(current)
@@ -79,7 +80,7 @@ def run(args_dict):
     logger.info(f'Url constructed: {fout}')
 
     cl_soup = get_soup(fout)
-    product_data = parse_soup(cl_soup)
+    product_data = parse_soup(cl_soup, product)
 
     logger.info(f'{len(product_data)} listings for {product.upper()} found.')
 

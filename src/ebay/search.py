@@ -141,7 +141,7 @@ def build_products_page(url):
     return product_list
 
 
-def run(args_dict):
+def run(args_dict): # pragma: no cover
     '''
     Handler for eBay scraping.
 
@@ -181,10 +181,11 @@ def run(args_dict):
             tmp_list = build_products_page(url)
             product_list.append(tmp_list)
 
+    print(product_list)
     return product_list
 
 
-if __name__ == '__main__':
+if __name__ == '__main__': # pragma: no cover
     parser = argparse.ArgumentParser(
         description='Find prices for products products on eBay'
     )

@@ -104,7 +104,7 @@ def extract_metadata(ali_items):
     for item in items:
         current['productId'] = get_nested(item, 'productId')
         current['productName'] = get_nested(item, 'title')
-        current['salePrice'] = get_nested(item, 'price')
+        current['salePrice'] = _parse_prices(item)
         current['listingUrl'] = get_nested(item, 'productDetailUrl')
 
         print(json.dumps(current, indent=4))
@@ -112,6 +112,24 @@ def extract_metadata(ali_items):
 
 
     return all_items
+
+
+def _parse_prices(item):
+    price = get_nested(item, 'price')
+    if 'US $' in price:
+        price = price.replace('US $', '').replace(',', '')
+
+    if ' - ' in price:
+        price = price.replace(' - ', ',')
+        price_list = price.split(',')
+        float_list = [float(x.replace(',','')) for x in price_list]
+        price = tuple(float_list)
+
+    if type(price) == str:
+        price = float(price)
+
+    return price
+
 
 
 def run(args_dict):

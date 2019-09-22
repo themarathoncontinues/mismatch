@@ -33,6 +33,6 @@ def test_parse_soup():
     IN_HTML = codecs.open('tests/testData/test_soup.txt', 'r')
     mock_soup = BeautifulSoup(IN_HTML.read(), features='html.parser')
 
-    result = parse_soup(mock_soup)
+    result = parse_soup(mock_soup, product_name='product_name')
 
     assert len(result) == 71
