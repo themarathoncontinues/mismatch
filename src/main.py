@@ -23,7 +23,7 @@ class GetProducts():
                f"Ebay: {self.ebay}"
 
 
-def run_all(args_dict):
+def run_all(args_dict): # pragma: no cover
     data = GetProducts(args_dict)
 
     return data

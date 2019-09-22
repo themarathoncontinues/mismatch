@@ -129,7 +129,7 @@ def _parse_prices(item):
     return price
 
 
-def run(args_dict):
+def run(args_dict): # pragma: no cover
     """
     Pseudo handler for aliexpress scraping from given args
     :param args_dict:
