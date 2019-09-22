@@ -38,7 +38,6 @@ def test_get_product_info():
 
 
     assert isinstance(result, dict)
-    assert len(result) == 4
     assert {'name', 'status', 'price', 'shipping', 'url'} == set(result.keys())
 
 
