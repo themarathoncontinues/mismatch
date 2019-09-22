@@ -38,8 +38,7 @@ def test_get_product_info():
 
 
     assert isinstance(result, dict)
-    assert len(result) == 4
-    assert {'name', 'status', 'price', 'shipping'} == set(result.keys())
+    assert {'name', 'status', 'price', 'shipping', 'url'} == set(result.keys())
 
 
 def test_get_product_name():
@@ -77,7 +76,7 @@ def test_get_product_shipping():
     result = _get_product_shipping(soupified)
 
     # this needs more test cases
-    assert result == 'Free Shipping'
+    assert result == 0.0
 
 def test_get_product_price():
 
@@ -89,3 +88,15 @@ def test_get_product_price():
     result = _get_product_price(soupified)
 
     assert isinstance(result, float)
+
+def test_get_product_price():
+
+    fp = open('tests/testData/ebay_get_product_info.pkl', 'rb')
+    tmp = pickle.load(fp)
+    fp.close()
+
+    soupified = BeautifulSoup(tmp, 'html.parser')
+    result = _get_product_price(soupified)
+
+    assert isinstance(result, float)
+
