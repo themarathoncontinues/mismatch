@@ -17,7 +17,7 @@ class Website(Base):
     # Here we define columns for the table person
     # Notice that each column is also a normal Python instance attribute.
     id = Column(Integer, primary_key=True)
-    name = Column(String(250), nullable=False)
+    name = Column(String(500), nullable=False)
 
 
 class SearchResult(Base):
@@ -25,11 +25,11 @@ class SearchResult(Base):
     # Here we define columns for the table person
     # Notice that each column is also a normal Python instance attribute.
     id = Column(Integer, primary_key=True)
-    name = Column(String(250), nullable=False)
-    url = Column(String(250), nullable=False)
+    name = Column(String(500), nullable=False)
+    url = Column(String(500), nullable=False)
     price = Column(Float, nullable=False)
-    query = Column(String(250), nullable=False)
-    queried_at = Column(DateTime, default=datetime.datetime.utcnow, nullable=False)
+    query = Column(String(500), nullable=False)
+    query_at = Column(DateTime, default=datetime.datetime.utcnow, nullable=False)
     website_id = Column(Integer, ForeignKey('Websites.id'))
     website = relationship(Website)
 

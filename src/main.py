@@ -33,10 +33,9 @@ def run_all(args_dict): # pragma: no cover
             url=d['listingUrl'],
             price=d['salePrice'],
             query=args_dict['query'],
-            website_id=2,
+            website_id=1,
         ) for d in data.ebay[0] if not isinstance(d['salePrice'], tuple)]
     dba.session.add_all(ebay_records)
-    dba.session.commit()
 
     aliexpress_records = [dba.SearchResult(
             name=d['productName'],
@@ -46,7 +45,6 @@ def run_all(args_dict): # pragma: no cover
             website_id=3,
         ) for d in data.aliexpress if not isinstance(d['salePrice'], tuple)]
     dba.session.add_all(aliexpress_records)
-    dba.session.commit()
 
     craigslist_records = [dba.SearchResult(
             name=d['productName'],
@@ -56,6 +54,7 @@ def run_all(args_dict): # pragma: no cover
             website_id=2,
         ) for d in data.craigslist if not isinstance(d['salePrice'], tuple)]
     dba.session.add_all(craigslist_records)
+
     dba.session.commit()
 
     return data
