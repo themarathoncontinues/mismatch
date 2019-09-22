@@ -40,6 +40,11 @@ def _get_product_shipping(soup):
     shipping_soup = soup.find('span', {'class': 's-item__shipping'})
     shipping = shipping_soup.text if shipping_soup else 'ERROR'
 
+    if 'Free' in shipping:
+        shipping = 0.0
+    elif shipping.startswith('+$'):
+        shipping = float(shipping.split(' ')[0].replace('+$', ''))
+
     return shipping
 
 
@@ -70,6 +75,14 @@ def _get_product_name(soup):
     return name
 
 
+def _get_product_url(soup):
+
+    url_soup = soup.find('a')
+    url = url_soup.get('href') if url_soup.get('href') else 'ERROR'
+
+    return url
+
+
 def get_product_info(soup):
     '''
     Get singular product info.
@@ -85,7 +98,8 @@ def get_product_info(soup):
         'name': _get_product_name(soup),
         'status': _get_product_status(soup),
         'price': _get_product_price(soup),
-        'shipping': _get_product_shipping(soup)
+        'shipping': _get_product_shipping(soup),
+        'url': _get_product_url(soup),
     }
 
     return product_info
@@ -107,7 +121,7 @@ def get_products(soup):
     return products
 
 
-def build_products(url):
+def build_products_page(url):
 
     logger.info(f'BUILD EBAY URL: {url}')
     resp = requests.get(url)
@@ -122,7 +136,7 @@ def build_products(url):
     for product in products:
         info = get_product_info(product)
         product_list.append(info)
-        logger.info(f'ADDED PRODUCT: {info["name"]}')
+        logger.info(f'ADDED PRODUCT: {info["name"]}, {info["price"]}')
 
     return product_list
 
@@ -139,6 +153,7 @@ def run(args_dict):
     '''
 
     query = args_dict['query']
+    query = query.replace(' ', '+')
     logger.info(f'RUNNING ON QUERY: {query}')
 
     if args_dict['sold']:
@@ -153,14 +168,18 @@ def run(args_dict):
         # here is where other search filters would come in
         pass
 
-    product_list = build_products(url)
+    product_list = []
+    tmp_list = build_products_page(url)
+    product_list.append(tmp_list)
 
     if args_dict['n'] > 1:
 
-        urls = [f'{url}{EBAY_PAGE_NUMBER.format(x+1)}' for x in range(1, args_dict['n'])]
+        urls = [f'{url}{EBAY_PAGE_NUMBER.format(x+1)}' \
+                for x in range(1, args_dict['n'])]
 
         for url in urls:
-            product_list.append(build_products(url))
+            tmp_list = build_products_page(url)
+            product_list.append(tmp_list)
 
     return product_list
 
