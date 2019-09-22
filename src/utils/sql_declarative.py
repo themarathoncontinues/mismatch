@@ -1,8 +1,10 @@
+import datetime
 import os
 import sys
+
 from dotenv import load_dotenv
 load_dotenv()
-from sqlalchemy import Column, ForeignKey, Integer, String, Float
+from sqlalchemy import Column, ForeignKey, DateTime, Integer, String, Float
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship
 from sqlalchemy import create_engine
@@ -26,6 +28,8 @@ class SearchResult(Base):
     name = Column(String(250), nullable=False)
     url = Column(String(250), nullable=False)
     price = Column(Float, nullable=False)
+    query = Column(String(250), nullable=False)
+    queried_at = Column(DateTime, default=datetime.datetime.utcnow, nullable=False)
     website_id = Column(Integer, ForeignKey('Websites.id'))
     website = relationship(Website)
 

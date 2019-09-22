@@ -6,6 +6,7 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 from src.utils.sql_declarative import Base, Website, SearchResult
 
+
 engine = create_engine(os.getenv('POSTGRES_DB'), echo=True)
 # Bind the engine to the metadata of the Base class so that the
 # declaratives can be accessed through a DBSession instance
