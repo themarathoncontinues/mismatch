@@ -1,7 +1,4 @@
 import requests
-import sys
-import traceback
-import urllib
 
 
 def shorten(url):
