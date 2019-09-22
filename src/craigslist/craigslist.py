@@ -14,7 +14,10 @@ from src.constants import (
     CL_BASE_TAIL
 )
 
-from src.utils.url_util import cl_product
+from src.utils.url_util import (
+    partition_product,
+    shorten
+)
 
 
 def construct_url(metro, product):
@@ -24,7 +27,7 @@ def construct_url(metro, product):
     :param product:
     :return:
     """
-    serialize_product = cl_product(product)
+    serialize_product = partition_product(product)
     out_url = f'https://{metro}.{CL_BASE}{CL_BASE_SEARCH}{serialize_product}&{CL_BASE_TAIL}'
 
     return out_url
@@ -56,7 +59,7 @@ def parse_soup(soup_html, product_name):
     current = {}
     for product in products:
         current['productName'] = product_name
-        current['listingUrl'] = product.find('a', href=True)['href']
+        current['listingUrl'] = shorten(product.find('a', href=True)['href'])
         current['createdAt'] = product.find('time', 'result-date')['datetime']
         current['salePrice'] = float((product.find('span', 'result-price').text).replace('$', ''))
 
@@ -83,6 +86,8 @@ def run(args_dict):
     product_data = parse_soup(cl_soup, product)
 
     logger.info(f'{len(product_data)} listings for {product.upper()} found.')
+
+    return product_data
 
 
 if __name__ == '__main__': # pragma: no cover
