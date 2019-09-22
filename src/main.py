@@ -1,6 +1,8 @@
 import argparse
 import logging
 
+import utils.sql_actions as dba
+
 from src.aliexpress import aliexpress
 from src.craigslist import craigslist
 from src.ebay import search
@@ -25,6 +27,15 @@ class GetProducts():
 
 def run_all(args_dict):
     data = GetProducts(args_dict)
+
+    ebay_records = [dba.SearchResult(
+            name=d['productName'],
+            url=d['listingUrl'],
+            price=d['salePrice'],
+            website_id=2,
+        ) for d in data.ebay[0] if not isinstance(d['salePrice'], list)]
+    dba.session.add_all(ebay_records)
+    dba.session.commit()
 
     return data
 

@@ -166,7 +166,13 @@ def run(args_dict): # pragma: no cover
         )
     else:
         # here is where other search filters would come in
-        pass
+        url = '{}{}{}{}'.format(
+            EBAY_BASE,
+            EBAY_BASE_SEARCH,
+            query,
+            EBAY_COMPLETE_FILTER,
+            EBAY_US_ONLY_FILTER
+        )
 
     product_list = []
     tmp_list = build_products_page(url)
