@@ -6,7 +6,7 @@
 Identifying retail arbitrage opportunities.
 
 
-## craigslist.org
+## argparse
 
 | tag  | argument    | description                        | default      | choices | required |
 |------|---------------|------------------------------------|--------------|---------|----------|
