@@ -14,11 +14,7 @@ from src.constants import (
 )
 
 from src.utils.json_util import get_nested
-from src.utils.url_util import (
-    partition_product,
-    shorten
-)
-
+from src.utils.url_util import partition_product
 
 logging.basicConfig(level='INFO')
 logger = logging.getLogger(__name__)
