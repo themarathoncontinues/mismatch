@@ -4,7 +4,9 @@ from dotenv import load_dotenv
 load_dotenv()
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
+
 from utils.sql_declarative import Base, Website, SearchResult
+
 
 engine = create_engine(os.getenv('POSTGRES_DB'), echo=True)
 # Bind the engine to the metadata of the Base class so that the
