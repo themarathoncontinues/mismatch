@@ -46,7 +46,7 @@ jedi==0.15.1
 Jinja2==2.10.1
 lazy-object-proxy==1.4.2
 lxml==4.4.1
-Mako==1.1.0
+Mako==1.2.2
 MarkupSafe==1.1.1
 mccabe==0.6.1
 mock==3.0.5
